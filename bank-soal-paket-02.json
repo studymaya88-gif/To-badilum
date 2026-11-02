@@ -1,1502 +1,1502 @@
 [
   {
     "id": "P2-001",
-    "subject": "Perdata",
-    "q": "Dalam hibah yang dibuat dengan akta notaris, pemberi menyatakan akan menyerahkan benda tertentu kelak. Penerima belum menerima benda. Unsur yang paling menentukan kesempurnaan hibah adalah ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "A melakukan pencurian dengan maksud memiliki barang milik B. Namun, sebelum barang tersebut berhasil dibawa pergi, A tertangkap. Berdasarkan KUHP Nasional, perbuatan A paling tepat dikualifikasikan sebagai ....",
     "opts": [
-      "hak tersebut timbul otomatis tanpa syarat tambahan",
-      "akibatnya selalu batal demi hukum sejak awal",
-      "keadaan itu tidak berpengaruh terhadap hubungan hukum",
-      "penerimaan hibah oleh penerima sesuai ketentuan",
-      "pihak lawan wajib menerima tanpa pengecualian"
+      "Delik selesai",
+      "Percobaan tindak pidana",
+      "Persiapan tindak pidana",
+      "Perbuatan tidak dapat dipidana karena barang belum berpindah",
+      "Penyertaan tindak pidana"
     ],
-    "a": 3,
-    "exp": "Hibah pada prinsipnya memerlukan penerimaan; janji sepihak belum otomatis menyempurnakan hibah.",
-    "basis": "KUHPerdata tentang hibah"
+    "a": 1,
+    "exp": "Percobaan terjadi jika niat telah nyata dari permulaan pelaksanaan, tetapi penyelesaian tidak terjadi bukan semata-mata karena kehendak pelaku.",
+    "basis": "UU 1/2023 tentang KUHP, ketentuan percobaan (Pasal 17)."
   },
   {
     "id": "P2-002",
-    "subject": "Perdata",
-    "q": "Seorang debitur membayar utang kepada kreditur yang telah mengalihkan piutang melalui cessie, tetapi pemberitahuan pengalihan belum diterima debitur. Akibat yang paling tepat ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "A memukul B dengan maksud membunuh. B mengalami luka berat, tetapi berhasil diselamatkan oleh dokter. A dapat dimintai pertanggungjawaban atas ....",
     "opts": [
-      "akibatnya selalu batal demi hukum sejak awal",
-      "keadaan itu tidak berpengaruh terhadap hubungan hukum",
-      "pembayaran kepada kreditur lama dapat membebaskan debitur jika beritikad baik",
-      "pihak lawan wajib menerima tanpa pengecualian",
-      "hak baru lahir setelah putusan pengadilan"
+      "Penganiayaan ringan",
+      "Pembunuhan",
+      "Percobaan pembunuhan",
+      "Kealpaan yang mengakibatkan kematian",
+      "Perbuatan persiapan pembunuhan"
     ],
     "a": 2,
-    "exp": "Sebelum cessie diberitahukan atau diakui, pembayaran kepada kreditur lama dapat melindungi debitur beritikad baik.",
-    "basis": "KUHPerdata Pasal 613"
+    "exp": "Adanya maksud membunuh dan permulaan pelaksanaan, sementara kematian tidak terjadi karena pertolongan dokter, menunjuk pada percobaan pembunuhan.",
+    "basis": "UU 1/2023 tentang KUHP, ketentuan percobaan dan tindak pidana terhadap nyawa."
   },
   {
     "id": "P2-003",
-    "subject": "Perdata",
-    "q": "Dalam perjanjian dengan syarat tangguh, hak yang diperjanjikan ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "A dan B bersepakat melakukan pencurian. A bertugas mengawasi situasi, sedangkan B mengambil barang. Dalam konsep penyertaan, A dan B paling tepat dikategorikan sebagai ....",
     "opts": [
-      "keadaan itu tidak berpengaruh terhadap hubungan hukum",
-      "baru dapat dituntut setelah syarat terpenuhi",
-      "pihak lawan wajib menerima tanpa pengecualian",
-      "hak baru lahir setelah putusan pengadilan",
-      "perbuatan tersebut selalu tidak sah terhadap siapa pun"
+      "Pembantu tindak pidana",
+      "Turut serta melakukan tindak pidana",
+      "Penganjur tindak pidana",
+      "Percobaan tindak pidana",
+      "Penadah"
     ],
     "a": 1,
-    "exp": "Syarat tangguh menunda berlakunya akibat hukum sampai peristiwa yang disyaratkan terjadi.",
-    "basis": "KUHPerdata tentang perikatan bersyarat"
+    "exp": "Jika terdapat kerja sama yang erat dan sadar serta kontribusi A merupakan bagian pelaksanaan bersama, keduanya dapat dipandang turut serta. Pengawasan semata harus dinilai dari fakta konkret.",
+    "basis": "UU 1/2023 tentang KUHP, ketentuan penyertaan."
   },
   {
     "id": "P2-004",
-    "subject": "Perdata",
-    "q": "Debitur menawarkan pembayaran sebagian atas utang yang harus dibayar sekaligus. Kreditur menolak. Pada prinsipnya penolakan itu ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "A melakukan tiga pencurian di tempat berbeda, pada waktu berbeda, dengan kehendak yang berdiri sendiri. Perbuatan tersebut merupakan ....",
     "opts": [
-      "dapat dibenarkan karena kreditur tidak wajib menerima pembayaran sebagian",
-      "pihak lawan wajib menerima tanpa pengecualian",
-      "hak baru lahir setelah putusan pengadilan",
-      "perbuatan tersebut selalu tidak sah terhadap siapa pun",
-      "akibat hukum bergantung semata-mata pada itikad kreditur"
+      "Concursus idealis",
+      "Perbuatan berlanjut",
+      "Concursus realis",
+      "Penyertaan",
+      "Percobaan berulang"
     ],
-    "a": 0,
-    "exp": "Kreditur pada prinsipnya tidak wajib menerima pembayaran sebagian apabila prestasi terutang harus dipenuhi sekaligus.",
-    "basis": "KUHPerdata Pasal 1390"
+    "a": 2,
+    "exp": "Beberapa tindak pidana yang berdiri sendiri dilakukan melalui beberapa perbuatan merupakan perbarengan nyata atau concursus realis.",
+    "basis": "UU 1/2023 tentang KUHP, ketentuan perbarengan tindak pidana."
   },
   {
     "id": "P2-005",
-    "subject": "Perdata",
-    "q": "Dalam perikatan tanggung renteng pasif, kreditur menagih seluruh utang kepada salah satu debitur. Debitur tersebut ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "Satu perbuatan A ternyata melanggar dua ketentuan pidana sekaligus. Keadaan tersebut disebut ....",
     "opts": [
-      "hak baru lahir setelah putusan pengadilan",
-      "perbuatan tersebut selalu tidak sah terhadap siapa pun",
-      "akibat hukum bergantung semata-mata pada itikad kreditur",
-      "pembatalan hanya dapat dimohonkan setelah prestasi dilaksanakan",
-      "dapat ditagih seluruhnya, lalu memiliki hak regres terhadap debitur lain"
+      "Concursus realis",
+      "Concursus idealis",
+      "Perbuatan berlanjut",
+      "Residivisme",
+      "Penyertaan mutlak"
     ],
-    "a": 4,
-    "exp": "Kreditur dapat menuntut pelunasan seluruh utang dari salah satu debitur tanggung renteng; pembagian internal diselesaikan melalui regres.",
-    "basis": "KUHPerdata tentang perikatan tanggung renteng"
+    "a": 1,
+    "exp": "Satu perbuatan yang masuk ke dalam lebih dari satu ketentuan pidana disebut perbarengan peraturan atau concursus idealis.",
+    "basis": "UU 1/2023 tentang KUHP, ketentuan perbarengan tindak pidana."
   },
   {
     "id": "P2-006",
-    "subject": "Perdata",
-    "q": "Perjanjian dibuat oleh pihak yang cakap, objek tertentu, dan sebab yang halal, tetapi tidak ada kesepakatan. Akibatnya ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "Seseorang melakukan beberapa perbuatan yang masing-masing merupakan tindak pidana, tetapi memiliki hubungan sedemikian rupa sehingga dipandang sebagai satu perbuatan berlanjut. Konsep ini dikenal sebagai ....",
     "opts": [
-      "perbuatan tersebut selalu tidak sah terhadap siapa pun",
-      "akibat hukum bergantung semata-mata pada itikad kreditur",
-      "pembatalan hanya dapat dimohonkan setelah prestasi dilaksanakan",
-      "perjanjian tidak memenuhi syarat subjektif dan dapat dimintakan pembatalan",
-      "hak tersebut timbul otomatis tanpa syarat tambahan"
+      "Samenloop",
+      "Recidive",
+      "Voortgezette handeling",
+      "Medeplichtigheid",
+      "Uitlokking"
     ],
-    "a": 3,
-    "exp": "Kesepakatan adalah syarat subjektif; cacat pada syarat subjektif membuka kemungkinan pembatalan.",
-    "basis": "KUHPerdata Pasal 1320 dan 1446"
+    "a": 2,
+    "exp": "Voortgezette handeling adalah perbuatan berlanjut, yakni beberapa perbuatan yang mempunyai hubungan sedemikian rupa sehingga dipandang sebagai satu rangkaian menurut hukum pidana.",
+    "basis": "UU 1/2023 tentang KUHP, ketentuan perbarengan/perbuatan berlanjut."
   },
   {
     "id": "P2-007",
-    "subject": "Perdata",
-    "q": "Pembeli menerima barang dengan cacat tersembunyi yang membuat barang tidak dapat dipakai sebagaimana mestinya. Upaya khas dalam jual beli adalah ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "Dalam hukum pidana, asas lex favor reo berkaitan dengan ....",
     "opts": [
-      "akibat hukum bergantung semata-mata pada itikad kreditur",
-      "pembatalan hanya dapat dimohonkan setelah prestasi dilaksanakan",
-      "menuntut pembatalan atau pengurangan harga sesuai keadaan",
-      "hak tersebut timbul otomatis tanpa syarat tambahan",
-      "akibatnya selalu batal demi hukum sejak awal"
+      "Penerapan hukum yang paling berat",
+      "Penerapan ketentuan yang lebih menguntungkan bagi pelaku apabila terjadi perubahan peraturan setelah perbuatan dilakukan",
+      "Larangan menjatuhkan pidana tambahan",
+      "Penghapusan seluruh pertanggungjawaban pidana",
+      "Kewajiban hakim mengikuti tuntutan penuntut umum"
     ],
-    "a": 2,
-    "exp": "Dalam cacat tersembunyi, pembeli dapat menggunakan tuntutan khusus berupa pembatalan atau pengurangan harga menurut ketentuan jual beli.",
-    "basis": "KUHPerdata Pasal 1504 dan seterusnya"
+    "a": 1,
+    "exp": "Jika terjadi perubahan peraturan setelah perbuatan, ketentuan yang lebih menguntungkan bagi pelaku diterapkan sesuai aturan peralihan hukum pidana.",
+    "basis": "UU 1/2023 tentang KUHP, ketentuan perubahan peraturan setelah tindak pidana."
   },
   {
     "id": "P2-008",
-    "subject": "Perdata",
-    "q": "Penerima kuasa bertindak melampaui batas kuasa dan pihak ketiga mengetahui batas tersebut. Tindakan itu pada prinsipnya ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "A melakukan tindak pidana karena dipaksa oleh kekuatan yang tidak dapat ditahannya. Keadaan tersebut berkaitan dengan ....",
     "opts": [
-      "pembatalan hanya dapat dimohonkan setelah prestasi dilaksanakan",
-      "tidak mengikat pemberi kuasa tanpa ratifikasi",
-      "hak tersebut timbul otomatis tanpa syarat tambahan",
-      "akibatnya selalu batal demi hukum sejak awal",
-      "keadaan itu tidak berpengaruh terhadap hubungan hukum"
+      "Pembelaan terpaksa",
+      "Daya paksa",
+      "Pembenar karena jabatan",
+      "Percobaan",
+      "Pemberatan pidana"
     ],
     "a": 1,
-    "exp": "Kuasa tidak membenarkan tindakan di luar kewenangan; ratifikasi dapat mengubah akibatnya.",
-    "basis": "KUHPerdata tentang pemberian kuasa"
+    "exp": "Daya paksa (overmacht) merupakan alasan penghapus pidana yang berhubungan dengan keadaan tekanan/paksaan yang tidak dapat ditahan.",
+    "basis": "UU 1/2023 tentang KUHP, ketentuan alasan pembenar dan pemaaf."
   },
   {
     "id": "P2-009",
-    "subject": "Perdata",
-    "q": "Dalam perjanjian untuk kepentingan pihak ketiga, pihak ketiga menyatakan menerima manfaat. Akibatnya ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "A diserang B dengan pisau. Untuk mempertahankan diri, A melakukan tindakan yang diperlukan dan seimbang untuk menghentikan serangan tersebut. Alasan penghapus pidana yang paling tepat adalah ....",
     "opts": [
-      "hak pihak ketiga menjadi tidak dapat ditarik kembali oleh para pihak",
-      "hak tersebut timbul otomatis tanpa syarat tambahan",
-      "akibatnya selalu batal demi hukum sejak awal",
-      "keadaan itu tidak berpengaruh terhadap hubungan hukum",
-      "pihak lawan wajib menerima tanpa pengecualian"
+      "Daya paksa",
+      "Pembelaan terpaksa",
+      "Perintah jabatan",
+      "Ketidakmampuan bertanggung jawab",
+      "Alasan pemaaf karena kekeliruan"
     ],
-    "a": 0,
-    "exp": "Penerimaan oleh pihak ketiga menjadikan janji untuk kepentingannya tidak dapat ditarik kembali menurut ketentuan yang berlaku.",
-    "basis": "KUHPerdata Pasal 1317"
+    "a": 1,
+    "exp": "Pembelaan terpaksa merupakan pembelaan terhadap serangan atau ancaman serangan seketika yang melawan hukum, dengan tindakan yang perlu dan proporsional.",
+    "basis": "UU 1/2023 tentang KUHP, ketentuan pembelaan terpaksa."
   },
   {
     "id": "P2-010",
-    "subject": "Perdata",
-    "q": "Seorang pemilik menyerahkan barang bergerak kepada penerima untuk dijaga tanpa imbalan dan tanpa hak memakai. Hubungan yang paling tepat ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "Perbedaan mendasar antara alasan pembenar dan alasan pemaaf adalah ....",
     "opts": [
-      "akibatnya selalu batal demi hukum sejak awal",
-      "keadaan itu tidak berpengaruh terhadap hubungan hukum",
-      "pihak lawan wajib menerima tanpa pengecualian",
-      "hak baru lahir setelah putusan pengadilan",
-      "penitipan"
+      "Alasan pembenar menghapus kesalahan, sedangkan alasan pemaaf menghapus sifat melawan hukum",
+      "Alasan pembenar menghapus sifat melawan hukum, sedangkan alasan pemaaf menghapus kesalahan",
+      "Keduanya selalu menghapus tindak pidana dan kesalahan secara bersamaan",
+      "Alasan pembenar hanya berlaku bagi korporasi",
+      "Alasan pemaaf hanya berlaku bagi tindak pidana ringan"
     ],
-    "a": 4,
-    "exp": "Penitipan berfokus pada kewajiban menerima, menyimpan, dan mengembalikan barang.",
-    "basis": "KUHPerdata tentang penitipan"
+    "a": 1,
+    "exp": "Alasan pembenar meniadakan sifat melawan hukum perbuatan; alasan pemaaf meniadakan kesalahan pelaku meskipun perbuatannya tetap melawan hukum.",
+    "basis": "UU 1/2023 tentang KUHP, ketentuan alasan pembenar dan pemaaf."
   },
   {
     "id": "P2-011",
-    "subject": "Perdata",
-    "q": "Dalam gadai, benda bergerak tetap dikuasai debitur dan tidak diserahkan kepada kreditur atau pihak ketiga. Persyaratan yang bermasalah adalah ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "Dalam KUHP Nasional, pidana pokok meliputi ....",
     "opts": [
-      "keadaan itu tidak berpengaruh terhadap hubungan hukum",
-      "pihak lawan wajib menerima tanpa pengecualian",
-      "hak baru lahir setelah putusan pengadilan",
-      "penyerahan penguasaan benda gadai",
-      "perbuatan tersebut selalu tidak sah terhadap siapa pun"
+      "Pidana mati, penjara, denda, dan pengawasan",
+      "Pidana penjara, denda, pencabutan hak, dan perampasan barang",
+      "Pidana penjara, denda, tutupan, pengawasan, dan kerja sosial",
+      "Pidana mati, penjara, tutupan, denda",
+      "Pidana penjara, kurungan, pengawasan, denda, dan kerja sosial"
     ],
-    "a": 3,
-    "exp": "Gadai atas benda bergerak mensyaratkan penyerahan penguasaan; tanpa itu hak gadai tidak lahir sempurna.",
-    "basis": "KUHPerdata Pasal 1152"
+    "a": 2,
+    "exp": "Pidana pokok menurut KUHP Nasional meliputi penjara, tutupan, pengawasan, denda, dan kerja sosial. Pidana mati ditempatkan sebagai pidana yang bersifat khusus.",
+    "basis": "UU 1/2023 tentang KUHP, Pasal 65 dan ketentuan terkait."
   },
   {
     "id": "P2-012",
-    "subject": "Perdata",
-    "q": "Hak tanggungan atas tanah pada asasnya lahir pada saat ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "Dalam sistem pemidanaan KUHP Nasional, pidana mati ditempatkan sebagai ....",
     "opts": [
-      "pihak lawan wajib menerima tanpa pengecualian",
-      "hak baru lahir setelah putusan pengadilan",
-      "didaftarkan pada kantor pertanahan",
-      "perbuatan tersebut selalu tidak sah terhadap siapa pun",
-      "akibat hukum bergantung semata-mata pada itikad kreditur"
+      "Pidana pokok yang wajib dijatuhkan untuk kejahatan berat",
+      "Pidana tambahan",
+      "Pidana khusus yang selalu dijatuhkan tanpa alternatif",
+      "Pidana yang bersifat khusus dan diancamkan secara alternatif serta merupakan upaya terakhir",
+      "Pidana yang harus dikenakan terhadap koruptor"
     ],
-    "a": 2,
-    "exp": "Akta pemberian hak tanggungan perlu didaftarkan; hak tanggungan lahir pada tanggal buku tanahnya.",
-    "basis": "UU 4/1996 tentang Hak Tanggungan"
+    "a": 3,
+    "exp": "Pidana mati merupakan pidana khusus yang selalu diancamkan secara alternatif dan menjadi upaya terakhir.",
+    "basis": "UU 1/2023 tentang KUHP, Pasal 67 dan Pasal 98."
   },
   {
     "id": "P2-013",
-    "subject": "Perdata",
-    "q": "Dalam fidusia, benda tetap berada dalam penguasaan pemberi fidusia. Unsur yang membedakannya dari gadai adalah ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "A melakukan tindak pidana dengan ancaman pidana penjara tertentu. Hakim mempertimbangkan bahwa tujuan pemidanaan dapat dicapai tanpa menjatuhkan pidana penjara. Salah satu alternatif pidana pokok yang dapat dipertimbangkan adalah ....",
     "opts": [
-      "hak baru lahir setelah putusan pengadilan",
-      "pengalihan hak kepemilikan secara kepercayaan tanpa penyerahan fisik",
-      "perbuatan tersebut selalu tidak sah terhadap siapa pun",
-      "akibat hukum bergantung semata-mata pada itikad kreditur",
-      "pembatalan hanya dapat dimohonkan setelah prestasi dilaksanakan"
+      "Pidana kerja sosial",
+      "Penyitaan seluruh harta keluarga",
+      "Pencabutan kewarganegaraan",
+      "Pengasingan",
+      "Pidana kurungan pengganti secara otomatis"
     ],
-    "a": 1,
-    "exp": "Fidusia memakai pengalihan kepemilikan secara kepercayaan, sementara benda tetap dikuasai pemberi fidusia.",
-    "basis": "UU 42/1999 tentang Jaminan Fidusia"
+    "a": 0,
+    "exp": "Pidana kerja sosial merupakan salah satu pidana pokok dalam KUHP Nasional dan dapat menjadi alternatif pemidanaan sesuai syarat undang-undang.",
+    "basis": "UU 1/2023 tentang KUHP, Pasal 65 dan Pasal 85."
   },
   {
     "id": "P2-014",
-    "subject": "Perdata",
-    "q": "Penjamin membayar utang debitur setelah kreditur menagih sesuai syarat penanggungan. Setelah pembayaran, penjamin pada prinsipnya ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "Dalam hukum pidana, dolus eventualis merupakan keadaan ketika ....",
     "opts": [
-      "dapat menuntut penggantian dari debitur utama",
-      "perbuatan tersebut selalu tidak sah terhadap siapa pun",
-      "akibat hukum bergantung semata-mata pada itikad kreditur",
-      "pembatalan hanya dapat dimohonkan setelah prestasi dilaksanakan",
-      "hak tersebut timbul otomatis tanpa syarat tambahan"
+      "Pelaku sama sekali tidak mengetahui akibat perbuatannya",
+      "Pelaku menghendaki akibat secara langsung",
+      "Pelaku menyadari kemungkinan timbulnya akibat dan menerima risiko tersebut",
+      "Pelaku melakukan perbuatan karena kelalaian semata",
+      "Pelaku tidak memiliki kemampuan bertanggung jawab"
     ],
-    "a": 0,
-    "exp": "Penanggung yang membayar memperoleh hak menagih kembali kepada debitur utama sesuai ketentuan penanggungan.",
-    "basis": "KUHPerdata tentang penanggungan"
+    "a": 2,
+    "exp": "Dolus eventualis menggambarkan kesengajaan dengan sadar kemungkinan: pelaku menyadari kemungkinan akibat dan menerima risiko terjadinya akibat itu.",
+    "basis": "Doktrin hukum pidana tentang bentuk kesengajaan; UU 1/2023 tentang KUHP."
   },
   {
     "id": "P2-015",
-    "subject": "Perdata",
-    "q": "Dalam pewarisan, ahli waris yang menolak warisan secara sah diperlakukan ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "Seorang pengemudi mengemudi dengan sangat ceroboh sehingga menyebabkan orang lain meninggal dunia. Bentuk kesalahan yang paling tepat adalah ....",
     "opts": [
-      "akibat hukum bergantung semata-mata pada itikad kreditur",
-      "pembatalan hanya dapat dimohonkan setelah prestasi dilaksanakan",
-      "hak tersebut timbul otomatis tanpa syarat tambahan",
-      "akibatnya selalu batal demi hukum sejak awal",
-      "seolah-olah tidak pernah menjadi ahli waris"
+      "Kesengajaan sebagai maksud",
+      "Kesengajaan dengan kepastian",
+      "Kesengajaan dengan kemungkinan",
+      "Kealpaan",
+      "Pembelaan terpaksa"
     ],
-    "a": 4,
-    "exp": "Penolakan warisan berakibat hukum ahli waris dianggap tidak pernah menjadi ahli waris.",
-    "basis": "KUHPerdata tentang penolakan warisan"
+    "a": 3,
+    "exp": "Mengemudi sangat ceroboh tanpa kehendak menimbulkan kematian pada umumnya merupakan kealpaan yang menyebabkan kematian.",
+    "basis": "UU 1/2023 tentang KUHP, ketentuan tindak pidana karena kealpaan yang mengakibatkan kematian."
   },
   {
     "id": "P2-016",
-    "subject": "Perdata",
-    "q": "Legitime portie merupakan bagian mutlak yang ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "Dalam tindak pidana pencucian uang, pendekatan yang memungkinkan penuntutan tanpa terlebih dahulu membuktikan tindak pidana asal telah diputus dengan putusan berkekuatan hukum tetap dikenal sebagai ....",
     "opts": [
-      "pembatalan hanya dapat dimohonkan setelah prestasi dilaksanakan",
-      "hak tersebut timbul otomatis tanpa syarat tambahan",
-      "akibatnya selalu batal demi hukum sejak awal",
-      "dilindungi bagi ahli waris tertentu terhadap hibah atau wasiat",
-      "keadaan itu tidak berpengaruh terhadap hubungan hukum"
+      "Pembuktian terbalik mutlak",
+      "Prinsip no need to prove predicate crime conviction",
+      "Asas legalitas formal",
+      "Ne bis in idem",
+      "Asas personalitas"
     ],
-    "a": 3,
-    "exp": "Legitime portie melindungi bagian minimum ahli waris legitimaris dari pengurangan melalui hibah atau wasiat.",
-    "basis": "KUHPerdata tentang legitime portie"
+    "a": 1,
+    "exp": "Penuntutan TPPU tidak wajib menunggu pembuktian tindak pidana asal melalui putusan berkekuatan hukum tetap. Ini tidak berarti tindak pidana asal boleh diabaikan dalam pembuktian unsur TPPU.",
+    "basis": "UU 8/2010 tentang Pencegahan dan Pemberantasan TPPU, Pasal 69."
   },
   {
     "id": "P2-017",
-    "subject": "Perdata",
-    "q": "Dalam perjanjian pinjam pakai, peminjam wajib ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "Korporasi dapat dimintai pertanggungjawaban pidana apabila ....",
     "opts": [
-      "hak tersebut timbul otomatis tanpa syarat tambahan",
-      "akibatnya selalu batal demi hukum sejak awal",
-      "mengembalikan barang yang sama setelah dipakai",
-      "keadaan itu tidak berpengaruh terhadap hubungan hukum",
-      "pihak lawan wajib menerima tanpa pengecualian"
+      "Setiap tindak pidana dilakukan oleh pegawainya tanpa melihat hubungan dengan korporasi",
+      "Tindak pidana dilakukan dalam lingkup kegiatan atau usaha korporasi dan memenuhi ketentuan pertanggungjawaban korporasi",
+      "Korporasi telah memperoleh keuntungan secara sah",
+      "Hanya direksi yang dapat dipidana",
+      "Korporasi tidak dapat menjadi subjek hukum pidana"
     ],
-    "a": 2,
-    "exp": "Pinjam pakai menyangkut barang yang harus dikembalikan dalam wujud barang yang sama, bukan barang sejenis.",
-    "basis": "KUHPerdata tentang pinjam pakai"
+    "a": 1,
+    "exp": "Pertanggungjawaban korporasi memerlukan hubungan tindak pidana dengan lingkup usaha/kegiatan dan kriteria atribusi serta kesalahan korporasi menurut undang-undang.",
+    "basis": "UU 1/2023 tentang KUHP, ketentuan tindak pidana oleh korporasi."
   },
   {
     "id": "P2-018",
-    "subject": "Perdata",
-    "q": "Debitur lalai memenuhi prestasi yang sudah dapat ditagih, tetapi perjanjian mensyaratkan teguran. Keadaan lalai umumnya timbul setelah ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "Dalam hukum pidana, asas legalitas mengandung makna ....",
     "opts": [
-      "akibatnya selalu batal demi hukum sejak awal",
-      "somasi yang patut diterima debitur",
-      "keadaan itu tidak berpengaruh terhadap hubungan hukum",
-      "pihak lawan wajib menerima tanpa pengecualian",
-      "hak baru lahir setelah putusan pengadilan"
+      "Hakim bebas menciptakan tindak pidana berdasarkan rasa keadilan",
+      "Seseorang hanya dapat dipidana berdasarkan ketentuan pidana yang telah ada sebelum perbuatannya dilakukan",
+      "Semua perbuatan tercela dapat dipidana",
+      "Hukum kebiasaan selalu mengesampingkan undang-undang",
+      "Penuntut umum dapat menentukan sendiri jenis pidana"
     ],
     "a": 1,
-    "exp": "Jika tidak ada pengecualian, debitur berada dalam keadaan lalai setelah peringatan atau somasi.",
-    "basis": "KUHPerdata Pasal 1238"
+    "exp": "Asas legalitas melarang pemidanaan tanpa dasar hukum pidana yang telah berlaku sebelum perbuatan dilakukan, dengan pengaturan living law yang terbatas dalam KUHP Nasional.",
+    "basis": "UU 1/2023 tentang KUHP, Pasal 1 dan Pasal 2."
   },
   {
     "id": "P2-019",
-    "subject": "Perdata",
-    "q": "Klausul pembebasan tanggung jawab atas kesengajaan sendiri pada umumnya ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "Seseorang yang melakukan tindak pidana karena menjalankan perintah jabatan dari pejabat yang berwenang dan perintah tersebut diberikan secara sah dapat memperoleh alasan penghapus pidana berupa ....",
     "opts": [
-      "bermasalah karena bertentangan dengan itikad baik dan ketertiban hukum",
-      "keadaan itu tidak berpengaruh terhadap hubungan hukum",
-      "pihak lawan wajib menerima tanpa pengecualian",
-      "hak baru lahir setelah putusan pengadilan",
-      "perbuatan tersebut selalu tidak sah terhadap siapa pun"
+      "Pembelaan terpaksa",
+      "Menjalankan perintah jabatan yang sah",
+      "Daya paksa relatif",
+      "Percobaan",
+      "Pengulangan tindak pidana"
     ],
-    "a": 0,
-    "exp": "Klausul eksonerasi tidak dapat begitu saja menghapus tanggung jawab atas kesengajaan; validitasnya dibatasi hukum dan itikad baik.",
-    "basis": "KUHPerdata Pasal 1337 dan 1338"
+    "a": 1,
+    "exp": "Pelaksanaan perintah jabatan yang diberikan oleh pejabat berwenang dan sah dapat menjadi alasan pembenar.",
+    "basis": "UU 1/2023 tentang KUHP, ketentuan perintah jabatan."
   },
   {
     "id": "P2-020",
-    "subject": "Perdata",
-    "q": "Dalam novasi subjektif pasif, pihak yang berubah adalah ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "A menghasut B dengan memberikan imbalan agar B melakukan pembunuhan. Dalam penyertaan, kedudukan A paling tepat adalah ....",
     "opts": [
-      "pihak lawan wajib menerima tanpa pengecualian",
-      "hak baru lahir setelah putusan pengadilan",
-      "perbuatan tersebut selalu tidak sah terhadap siapa pun",
-      "akibat hukum bergantung semata-mata pada itikad kreditur",
-      "debitur"
+      "Pelaku langsung",
+      "Pembantu",
+      "Penganjur",
+      "Penadah",
+      "Korban penyertaan"
     ],
-    "a": 4,
-    "exp": "Novasi subjektif pasif mengganti debitur dengan debitur baru, dengan maksud pembaruan utang.",
-    "basis": "KUHPerdata tentang novasi"
+    "a": 2,
+    "exp": "Penganjuran terjadi ketika seseorang menggerakkan orang lain melakukan tindak pidana dengan cara-cara yang ditentukan undang-undang, termasuk pemberian janji/imbalan.",
+    "basis": "UU 1/2023 tentang KUHP, ketentuan penganjuran."
   },
   {
     "id": "P2-021",
-    "subject": "Perdata",
-    "q": "Kreditur menerima prestasi dari pihak ketiga tanpa keberatan. Hal itu ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "Seseorang yang membantu pelaksanaan tindak pidana dengan memberikan sarana atau keterangan disebut ....",
     "opts": [
-      "hak baru lahir setelah putusan pengadilan",
-      "perbuatan tersebut selalu tidak sah terhadap siapa pun",
-      "akibat hukum bergantung semata-mata pada itikad kreditur",
-      "dapat memenuhi perikatan jika prestasi tidak wajib dilakukan pribadi oleh debitur",
-      "pembatalan hanya dapat dimohonkan setelah prestasi dilaksanakan"
+      "Penganjur",
+      "Pembantu tindak pidana",
+      "Turut serta",
+      "Pelaku tunggal",
+      "Pelaku tidak langsung dalam seluruh keadaan"
     ],
-    "a": 3,
-    "exp": "Prestasi dapat dilakukan pihak ketiga kecuali sifat atau kesepakatan mengharuskan pelaksanaan pribadi oleh debitur.",
-    "basis": "KUHPerdata Pasal 1382"
+    "a": 1,
+    "exp": "Pembantuan adalah pemberian bantuan pada saat atau sebelum tindak pidana dilakukan, dalam bentuk yang ditentukan undang-undang.",
+    "basis": "UU 1/2023 tentang KUHP, ketentuan pembantuan."
   },
   {
     "id": "P2-022",
-    "subject": "Perdata",
-    "q": "Dalam jual beli, risiko atas barang tertentu yang telah disepakati tetapi belum diserahkan ditentukan terutama oleh ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "Dalam KUHP Nasional, pengaturan mengenai hukum yang hidup dalam masyarakat (living law) pada prinsipnya berkaitan dengan ....",
     "opts": [
-      "perbuatan tersebut selalu tidak sah terhadap siapa pun",
-      "akibat hukum bergantung semata-mata pada itikad kreditur",
-      "aturan khusus tentang risiko dan keadaan wanprestasi para pihak",
-      "pembatalan hanya dapat dimohonkan setelah prestasi dilaksanakan",
-      "hak tersebut timbul otomatis tanpa syarat tambahan"
+      "Kebebasan setiap daerah menciptakan seluruh jenis pidana tanpa batas",
+      "Pengakuan terhadap hukum adat yang memenuhi persyaratan dan batasan undang-undang",
+      "Penghapusan asas legalitas",
+      "Kewenangan hakim mengesampingkan seluruh peraturan tertulis",
+      "Penerapan hukum adat hanya untuk perkara perdata"
     ],
-    "a": 2,
-    "exp": "Peralihan risiko bergantung pada ketentuan jual beli, penentuan barang, penyerahan, serta siapa yang lalai.",
-    "basis": "KUHPerdata tentang jual beli dan risiko"
+    "a": 1,
+    "exp": "KUHP mengakui hukum yang hidup dalam masyarakat sepanjang memenuhi persyaratan, dibatasi asas dan prinsip hukum nasional, serta diatur sesuai undang-undang.",
+    "basis": "UU 1/2023 tentang KUHP, Pasal 2."
   },
   {
     "id": "P2-023",
-    "subject": "Perdata",
-    "q": "Penguasaan lama atas benda tidak bergerak dengan itikad baik dan alas hak tertentu dapat menimbulkan ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "Dalam tindak pidana narkotika, seseorang yang terbukti sebagai penyalah guna bagi diri sendiri perlu dibedakan dari pengedar karena ....",
     "opts": [
-      "akibat hukum bergantung semata-mata pada itikad kreditur",
-      "daluwarsa acquisitif jika syarat undang-undang terpenuhi",
-      "pembatalan hanya dapat dimohonkan setelah prestasi dilaksanakan",
-      "hak tersebut timbul otomatis tanpa syarat tambahan",
-      "akibatnya selalu batal demi hukum sejak awal"
+      "Penyalah guna selalu bebas dari pidana",
+      "Penyalah guna hanya dapat dikenai pidana mati",
+      "Kualifikasi perbuatan dan ketentuan hukum yang diterapkan berbeda, termasuk kemungkinan rehabilitasi sesuai persyaratan",
+      "Pengedar tidak dapat dipidana apabila mengakui perbuatannya",
+      "Semua tindak pidana narkotika wajib diselesaikan melalui RJ"
     ],
-    "a": 1,
-    "exp": "Daluwarsa memperoleh hak membutuhkan penguasaan dan syarat waktu serta kualitas penguasaan menurut hukum.",
-    "basis": "KUHPerdata tentang daluwarsa"
+    "a": 2,
+    "exp": "Penyalah guna untuk diri sendiri berbeda dari peredaran gelap; rehabilitasi dapat diterapkan bila syarat hukum dan hasil asesmen terpenuhi, bukan otomatis.",
+    "basis": "UU 35/2009 tentang Narkotika, khususnya Pasal 127 dan ketentuan rehabilitasi; perubahan melalui UU 1/2026 perlu diperhatikan."
   },
   {
     "id": "P2-024",
-    "subject": "Perdata",
-    "q": "Dalam persekutuan perdata, pemasukan seorang sekutu hanya berupa tenaga. Hal itu ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "Seseorang yang melakukan tindak pidana setelah sebelumnya dijatuhi pidana berdasarkan putusan berkekuatan hukum tetap dapat berkaitan dengan konsep ....",
     "opts": [
-      "dapat menjadi kontribusi yang diperjanjikan",
-      "pembatalan hanya dapat dimohonkan setelah prestasi dilaksanakan",
-      "hak tersebut timbul otomatis tanpa syarat tambahan",
-      "akibatnya selalu batal demi hukum sejak awal",
-      "keadaan itu tidak berpengaruh terhadap hubungan hukum"
+      "Residivisme",
+      "Concursus idealis",
+      "Percobaan",
+      "Pembantuan",
+      "Perbuatan berlanjut"
     ],
     "a": 0,
-    "exp": "Pemasukan ke dalam persekutuan tidak harus berupa uang atau benda; tenaga dapat menjadi kontribusi sesuai perjanjian.",
-    "basis": "KUHPerdata tentang persekutuan perdata"
+    "exp": "Residivisme atau pengulangan berkaitan dengan tindak pidana baru setelah ada pemidanaan terdahulu yang memenuhi syarat undang-undang.",
+    "basis": "UU 1/2023 tentang KUHP, ketentuan pengulangan tindak pidana."
   },
   {
     "id": "P2-025",
-    "subject": "Perdata",
-    "q": "Pihak yang memperoleh keuntungan dari pembayaran tanpa dasar hukum wajib ...",
+    "subject": "Hukum Pidana Materiil",
+    "q": "Tujuan pemidanaan dalam KUHP Nasional tidak semata-mata bersifat pembalasan, melainkan juga ....",
     "opts": [
-      "hak tersebut timbul otomatis tanpa syarat tambahan",
-      "akibatnya selalu batal demi hukum sejak awal",
-      "keadaan itu tidak berpengaruh terhadap hubungan hukum",
-      "pihak lawan wajib menerima tanpa pengecualian",
-      "mengembalikan sepanjang syarat pembayaran tidak terutang terpenuhi"
+      "Memberikan penderitaan maksimal kepada pelaku",
+      "Mencegah tindak pidana, membina pelaku, menyelesaikan konflik, dan memulihkan keseimbangan",
+      "Mengutamakan kepentingan negara tanpa memperhatikan korban",
+      "Menghilangkan seluruh hak terpidana",
+      "Mengutamakan pidana penjara dalam setiap perkara"
     ],
-    "a": 4,
-    "exp": "Pembayaran yang tidak diwajibkan dapat melahirkan kewajiban pengembalian menurut aturan pembayaran tidak terutang.",
-    "basis": "KUHPerdata Pasal 1359 dan seterusnya"
+    "a": 1,
+    "exp": "Tujuan pemidanaan mencakup pencegahan, pembinaan, penyelesaian konflik, pemulihan keseimbangan, dan penumbuhan penyesalan pelaku.",
+    "basis": "UU 1/2023 tentang KUHP, Pasal 51."
   },
   {
     "id": "P2-026",
-    "subject": "Hukum Acara Perdata",
-    "q": "Penggugat mengajukan gugatan dengan identitas tergugat keliru, tetapi orang yang dimaksud dapat dipastikan dari uraian dan alamat. Isu utamanya ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Undang-undang yang menjadi dasar hukum acara pidana nasional dan menggantikan KUHAP 1981 adalah ....",
     "opts": [
-      "keberatan hanya dapat diajukan setelah putusan akhir",
-      "cacat tersebut selalu mengakibatkan gugatan batal demi hukum",
-      "hakim tidak berwenang menilai persoalan tersebut",
-      "ketepatan pihak dan apakah kekeliruan bersifat dapat diperbaiki",
-      "permohonan harus langsung ditolak tanpa kesempatan perbaikan"
+      "UU 1 Tahun 2023",
+      "UU 20 Tahun 2025",
+      "UU 1 Tahun 2026",
+      "UU 8 Tahun 1981",
+      "UU 48 Tahun 2009"
     ],
-    "a": 3,
-    "exp": "Kesalahan identitas dinilai dari apakah pihak tetap dapat ditentukan dan apakah mengganggu hak pembelaan; tidak otomatis selalu fatal.",
-    "basis": "HIR/RBg; asas kejelasan pihak"
+    "a": 1,
+    "exp": "KUHAP baru ditetapkan melalui UU 20 Tahun 2025 dan menggantikan UU 8 Tahun 1981.",
+    "basis": "UU 20 Tahun 2025 tentang KUHAP."
   },
   {
     "id": "P2-027",
-    "subject": "Hukum Acara Perdata",
-    "q": "Tergugat mengajukan eksepsi kompetensi relatif setelah mengajukan jawaban pokok perkara. Pada prinsipnya eksepsi itu ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "KUHAP 2025 mulai berlaku pada ....",
     "opts": [
-      "cacat tersebut selalu mengakibatkan gugatan batal demi hukum",
-      "hakim tidak berwenang menilai persoalan tersebut",
-      "terlambat karena kompetensi relatif harus diajukan pada kesempatan pertama",
-      "permohonan harus langsung ditolak tanpa kesempatan perbaikan",
-      "akibatnya selalu gugur seluruh alat bukti"
+      "17 Agustus 2025",
+      "17 Desember 2025",
+      "1 Januari 2026",
+      "2 Januari 2026",
+      "2 Februari 2026"
     ],
-    "a": 2,
-    "exp": "Eksepsi kompetensi relatif harus diajukan pada awal pemeriksaan sebelum masuk pokok perkara.",
-    "basis": "HIR Pasal 133"
+    "a": 3,
+    "exp": "UU 20 Tahun 2025 mulai berlaku pada 2 Januari 2026.",
+    "basis": "UU 20 Tahun 2025 tentang KUHAP, ketentuan penutup/berlaku."
   },
   {
     "id": "P2-028",
-    "subject": "Hukum Acara Perdata",
-    "q": "Dalam gugatan, petitum meminta pengadilan menetapkan status hukum tanpa menghukum pihak lain melakukan sesuatu. Putusan yang diminta bersifat ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Salah satu pembaruan penting KUHAP 2025 adalah ....",
     "opts": [
-      "hakim tidak berwenang menilai persoalan tersebut",
-      "deklaratoir",
-      "permohonan harus langsung ditolak tanpa kesempatan perbaikan",
-      "akibatnya selalu gugur seluruh alat bukti",
-      "pihak lawan dianggap mengakui seluruh dalil"
+      "Menghapus seluruh mekanisme praperadilan",
+      "Menghapus hak advokat mendampingi tersangka",
+      "Memperkenalkan pengakuan bersalah (plea bargain) dan perjanjian penundaan penuntutan",
+      "Menghapus hak korban atas restitusi",
+      "Menghilangkan mekanisme keadilan restoratif"
     ],
-    "a": 1,
-    "exp": "Putusan deklaratoir menyatakan atau menegaskan keadaan hukum tanpa amar penghukuman atau pembentukan keadaan baru.",
-    "basis": "Hukum acara perdata; doktrin putusan"
+    "a": 2,
+    "exp": "KUHAP baru mengatur mekanisme pengakuan bersalah dan perjanjian penundaan penuntutan, selain pembaruan lain.",
+    "basis": "UU 20/2025 tentang KUHAP."
   },
   {
     "id": "P2-029",
-    "subject": "Hukum Acara Perdata",
-    "q": "Penggugat mengajukan tuntutan baru yang tidak memiliki hubungan dengan gugatan asal sebagai rekonvensi. Pengadilan seharusnya ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Praperadilan dalam KUHAP baru pada prinsipnya merupakan mekanisme ....",
     "opts": [
-      "menilai syarat koneksitas dan ketentuan rekonvensi sebelum memeriksa",
-      "permohonan harus langsung ditolak tanpa kesempatan perbaikan",
-      "akibatnya selalu gugur seluruh alat bukti",
-      "pihak lawan dianggap mengakui seluruh dalil",
-      "perkara otomatis beralih ke pengadilan tingkat banding"
+      "Pemeriksaan pokok perkara oleh pengadilan tinggi",
+      "Pengujian terhadap tindakan atau keputusan tertentu dalam proses pidana sesuai ruang lingkup yang ditentukan undang-undang",
+      "Pemeriksaan ulang seluruh putusan pidana",
+      "Pengujian konstitusionalitas undang-undang",
+      "Pemeriksaan sengketa antara korban dan pelaku secara perdata"
     ],
-    "a": 0,
-    "exp": "Rekonvensi harus memenuhi syarat formil dan hubungan yang dibenarkan; tuntutan tak terkait dapat dipisahkan atau dinyatakan tidak dapat diterima.",
-    "basis": "HIR Pasal 132a–132b"
+    "a": 1,
+    "exp": "Praperadilan menguji legalitas tindakan/proses tertentu yang secara limitatif ditentukan KUHAP; bukan pemeriksaan pokok perkara.",
+    "basis": "UU 20/2025 tentang KUHAP, ketentuan praperadilan."
   },
   {
     "id": "P2-030",
-    "subject": "Hukum Acara Perdata",
-    "q": "Pihak ketiga masuk perkara untuk membela haknya sendiri atas objek sengketa. Bentuk intervensi yang sesuai ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Seorang tersangka merasa penetapan tersangkanya tidak sah. Upaya yang dapat ditempuh sesuai ruang lingkup KUHAP adalah ....",
     "opts": [
-      "akibatnya selalu gugur seluruh alat bukti",
-      "pihak lawan dianggap mengakui seluruh dalil",
-      "perkara otomatis beralih ke pengadilan tingkat banding",
-      "pengadilan wajib mengabulkan tuntutan tanpa pemeriksaan",
-      "tussenkomst"
+      "Kasasi langsung",
+      "Peninjauan kembali",
+      "Praperadilan",
+      "Banding",
+      "Perlawanan terhadap putusan bebas"
     ],
-    "a": 4,
-    "exp": "Tussenkomst terjadi ketika pihak ketiga masuk untuk mempertahankan haknya sendiri terhadap para pihak yang bersengketa.",
-    "basis": "Reglement acara perdata; doktrin intervensi"
+    "a": 2,
+    "exp": "Keabsahan penetapan tersangka termasuk objek pengujian praperadilan sesuai ketentuan KUHAP.",
+    "basis": "UU 20/2025 tentang KUHAP, ketentuan objek praperadilan."
   },
   {
     "id": "P2-031",
-    "subject": "Hukum Acara Perdata",
-    "q": "Sita jaminan dimohonkan atas barang yang tidak terkait dengan tuntutan dan nilainya jauh melampaui klaim. Hakim perlu ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Mekanisme plea bargain pada dasarnya merupakan ....",
     "opts": [
-      "pihak lawan dianggap mengakui seluruh dalil",
-      "perkara otomatis beralih ke pengadilan tingkat banding",
-      "pengadilan wajib mengabulkan tuntutan tanpa pemeriksaan",
-      "menilai relevansi, kebutuhan, dan proporsionalitas sita",
-      "keberatan hanya dapat diajukan setelah putusan akhir"
+      "Pengakuan bersalah yang dilakukan secara sukarela melalui prosedur dan persyaratan hukum untuk memperoleh konsekuensi pemidanaan tertentu",
+      "Pengakuan yang dipaksakan oleh penyidik",
+      "Penghentian penyidikan tanpa syarat",
+      "Penghapusan hak korban untuk memperoleh ganti rugi",
+      "Pengakuan bersalah yang otomatis membebaskan terdakwa"
     ],
-    "a": 3,
-    "exp": "Sita jaminan bersifat perlindungan sementara dan harus berkaitan dengan tuntutan serta tidak melampaui kebutuhan.",
-    "basis": "HIR/RBg; praktik sita jaminan"
+    "a": 0,
+    "exp": "Pengakuan bersalah merupakan mekanisme formal yang mensyaratkan kesukarelaan, pemahaman terdakwa, pendampingan, dan pemeriksaan pengadilan sesuai KUHAP.",
+    "basis": "UU 20/2025 tentang KUHAP, ketentuan pengakuan bersalah."
   },
   {
     "id": "P2-032",
-    "subject": "Hukum Acara Perdata",
-    "q": "Putusan verstek dijatuhkan, lalu tergugat mengajukan perlawanan. Upaya hukum tersebut disebut ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Perjanjian Penundaan Penuntutan (Deferred Prosecution Agreement) berkaitan dengan ....",
     "opts": [
-      "perkara otomatis beralih ke pengadilan tingkat banding",
-      "pengadilan wajib mengabulkan tuntutan tanpa pemeriksaan",
-      "verzet",
-      "keberatan hanya dapat diajukan setelah putusan akhir",
-      "cacat tersebut selalu mengakibatkan gugatan batal demi hukum"
+      "Penundaan seluruh perkara perdata",
+      "Mekanisme penundaan penuntutan dengan persyaratan tertentu sesuai undang-undang",
+      "Penghapusan kewenangan penuntut umum",
+      "Penundaan pelaksanaan pidana mati",
+      "Penghapusan kewajiban korporasi membayar denda"
     ],
-    "a": 2,
-    "exp": "Verzet adalah perlawanan tergugat terhadap putusan verstek menurut tata cara dan tenggat yang berlaku.",
-    "basis": "HIR Pasal 129"
+    "a": 1,
+    "exp": "DPA merupakan kesepakatan penundaan penuntutan, terutama dalam konteks korporasi, dengan syarat/kewajiban dan pengawasan sesuai undang-undang.",
+    "basis": "UU 20/2025 tentang KUHAP, ketentuan perjanjian penundaan penuntutan."
   },
   {
     "id": "P2-033",
-    "subject": "Hukum Acara Perdata",
-    "q": "Dalam perkara perdata, surat di bawah tangan diakui tanda tangannya oleh pihak yang dituju. Akibat pembuktian utamanya ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Dalam mekanisme keadilan restoratif, orientasi utama penyelesaian perkara adalah ....",
     "opts": [
-      "pengadilan wajib mengabulkan tuntutan tanpa pemeriksaan",
-      "kekuatan pembuktiannya terhadap penandatangan menjadi seperti akta yang diakui",
-      "keberatan hanya dapat diajukan setelah putusan akhir",
-      "cacat tersebut selalu mengakibatkan gugatan batal demi hukum",
-      "hakim tidak berwenang menilai persoalan tersebut"
+      "Pembalasan terhadap pelaku",
+      "Pemulihan keadaan, kepentingan korban, tanggung jawab pelaku, dan hubungan sosial",
+      "Penghapusan seluruh alat bukti",
+      "Mengutamakan kepentingan penyidik",
+      "Memastikan pelaku tidak pernah diproses hukum"
     ],
     "a": 1,
-    "exp": "Pengakuan tanda tangan menguatkan pembuktian surat di bawah tangan terhadap pihak yang mengakuinya.",
-    "basis": "KUHPerdata Pasal 1875"
+    "exp": "Keadilan restoratif berorientasi pada pemulihan korban/keadaan, tanggung jawab pelaku, dan pemulihan relasi sosial dalam batas yang dibolehkan hukum.",
+    "basis": "UU 20/2025 tentang KUHAP, ketentuan keadilan restoratif."
   },
   {
     "id": "P2-034",
-    "subject": "Hukum Acara Perdata",
-    "q": "Saksi hanya mendengar cerita dari orang lain mengenai peristiwa inti. Nilai kesaksiannya ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Dalam proses pidana, seorang terdakwa meninggal dunia sebelum putusan dijatuhkan. Akibat hukumnya terhadap penuntutan adalah ....",
     "opts": [
-      "perlu dinilai hati-hati karena bukan kesaksian langsung",
-      "keberatan hanya dapat diajukan setelah putusan akhir",
-      "cacat tersebut selalu mengakibatkan gugatan batal demi hukum",
-      "hakim tidak berwenang menilai persoalan tersebut",
-      "permohonan harus langsung ditolak tanpa kesempatan perbaikan"
+      "Perkara tetap dilanjutkan sampai putusan pemidanaan",
+      "Hakim menjatuhkan pidana denda kepada ahli waris",
+      "Kewenangan menuntut pidana hapus karena terdakwa meninggal dunia",
+      "Perkara otomatis berubah menjadi gugatan perdata",
+      "Penuntut umum wajib mengajukan kasasi"
     ],
-    "a": 0,
-    "exp": "Testimonium de auditu pada umumnya bukan kesaksian langsung atas fakta pokok, meski dapat dipertimbangkan dalam konteks tertentu.",
-    "basis": "Hukum pembuktian perdata"
+    "a": 2,
+    "exp": "Kematian tersangka/terdakwa menghapus kewenangan menuntut pidana; pertanggungjawaban pidana tidak diwariskan kepada ahli waris.",
+    "basis": "UU 1/2023 tentang KUHP, ketentuan gugurnya kewenangan penuntutan; UU 20/2025 tentang KUHAP."
   },
   {
     "id": "P2-035",
-    "subject": "Hukum Acara Perdata",
-    "q": "Penggugat mencabut gugatan sebelum tergugat menyampaikan jawaban. Menurut prinsip Pasal 271 Rv, pencabutan ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Dalam perkara pidana, surat dakwaan memiliki fungsi utama ....",
     "opts": [
-      "cacat tersebut selalu mengakibatkan gugatan batal demi hukum",
-      "hakim tidak berwenang menilai persoalan tersebut",
-      "permohonan harus langsung ditolak tanpa kesempatan perbaikan",
-      "akibatnya selalu gugur seluruh alat bukti",
-      "dapat dilakukan tanpa persetujuan tergugat"
+      "Menentukan besarnya ganti rugi perdata",
+      "Menjadi dasar dan batas pemeriksaan perkara di persidangan",
+      "Menggantikan seluruh alat bukti",
+      "Menjadi dasar eksekusi sebelum putusan",
+      "Menentukan kewenangan pengadilan negeri secara mutlak"
     ],
-    "a": 4,
-    "exp": "Sebelum jawaban, pencabutan gugatan pada prinsipnya tidak memerlukan persetujuan tergugat.",
-    "basis": "Rv Pasal 271"
+    "a": 1,
+    "exp": "Surat dakwaan merumuskan perbuatan yang dituduhkan dan menjadi dasar serta batas pemeriksaan hakim.",
+    "basis": "UU 20/2025 tentang KUHAP, ketentuan surat dakwaan."
   },
   {
     "id": "P2-036",
-    "subject": "Hukum Acara Perdata",
-    "q": "Setelah jawaban tergugat disampaikan, penggugat hendak mencabut gugatan. Pada prinsipnya diperlukan ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Apabila surat dakwaan tidak memenuhi syarat materiil karena uraian tindak pidana tidak cermat, jelas, dan lengkap, akibat yang dapat timbul adalah ....",
     "opts": [
-      "hakim tidak berwenang menilai persoalan tersebut",
-      "permohonan harus langsung ditolak tanpa kesempatan perbaikan",
-      "akibatnya selalu gugur seluruh alat bukti",
-      "persetujuan tergugat",
-      "pihak lawan dianggap mengakui seluruh dalil"
+      "Dakwaan batal demi hukum",
+      "Terdakwa otomatis bebas dari seluruh tuntutan",
+      "Perkara wajib dilimpahkan ke pengadilan tinggi",
+      "Hakim wajib menjatuhkan pidana denda",
+      "Perkara otomatis ditunda selama satu tahun"
     ],
-    "a": 3,
-    "exp": "Setelah tergugat menjawab, pencabutan gugatan memerlukan persetujuan tergugat menurut Pasal 271 Rv.",
-    "basis": "Rv Pasal 271"
+    "a": 0,
+    "exp": "Dakwaan yang tidak memenuhi syarat materiil dapat dinyatakan batal demi hukum sesuai mekanisme KUHAP.",
+    "basis": "UU 20/2025 tentang KUHAP, ketentuan syarat dan akibat cacat surat dakwaan."
   },
   {
     "id": "P2-037",
-    "subject": "Hukum Acara Perdata",
-    "q": "Dalam gugatan sederhana, nilai gugatan materiil melampaui batas yang ditentukan PERMA. Akibatnya ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Eksepsi atau keberatan terdakwa terhadap surat dakwaan pada dasarnya diajukan untuk ....",
     "opts": [
-      "permohonan harus langsung ditolak tanpa kesempatan perbaikan",
-      "akibatnya selalu gugur seluruh alat bukti",
-      "perkara tidak memenuhi kriteria gugatan sederhana",
-      "pihak lawan dianggap mengakui seluruh dalil",
-      "perkara otomatis beralih ke pengadilan tingkat banding"
+      "Membantah seluruh fakta pembuktian",
+      "Mempermasalahkan hal-hal tertentu terkait dakwaan atau kewenangan mengadili sebelum pemeriksaan pokok perkara",
+      "Mengajukan tuntutan pidana",
+      "Mengganti kedudukan penuntut umum",
+      "Meminta pelaksanaan putusan"
     ],
-    "a": 2,
-    "exp": "Gugatan sederhana memiliki batas nilai dan kriteria lain; jika tidak terpenuhi, perkara diperiksa dengan acara biasa.",
-    "basis": "PERMA 2/2015 jo. PERMA 4/2019"
+    "a": 1,
+    "exp": "Eksepsi mengajukan keberatan atas hal prosedural/kompetensi atau cacat dakwaan yang dapat diputus sebelum pemeriksaan pokok perkara.",
+    "basis": "UU 20/2025 tentang KUHAP, ketentuan keberatan/eksepsi."
   },
   {
     "id": "P2-038",
-    "subject": "Hukum Acara Perdata",
-    "q": "Mediasi perkara perdata dinyatakan tidak berhasil karena salah satu pihak tidak beriktikad baik. Hakim dapat ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Apabila pengadilan berpendapat bahwa perbuatan yang didakwakan terbukti, tetapi perbuatan tersebut bukan merupakan tindak pidana, putusan yang tepat adalah ....",
     "opts": [
-      "akibatnya selalu gugur seluruh alat bukti",
-      "menjatuhkan akibat biaya mediasi sesuai ketentuan",
-      "pihak lawan dianggap mengakui seluruh dalil",
-      "perkara otomatis beralih ke pengadilan tingkat banding",
-      "pengadilan wajib mengabulkan tuntutan tanpa pemeriksaan"
+      "Pemidanaan",
+      "Bebas",
+      "Lepas dari segala tuntutan hukum",
+      "Tidak dapat diterima",
+      "Gugatan dikabulkan"
     ],
-    "a": 1,
-    "exp": "PERMA mediasi mengatur akibat ketidakberiktikadbaikan, termasuk konsekuensi biaya sesuai posisi pihak.",
-    "basis": "PERMA 1/2016"
+    "a": 2,
+    "exp": "Putusan lepas dijatuhkan bila perbuatan terbukti tetapi bukan tindak pidana.",
+    "basis": "UU 20/2025 tentang KUHAP, ketentuan putusan lepas."
   },
   {
     "id": "P2-039",
-    "subject": "Hukum Acara Perdata",
-    "q": "Putusan serta-merta dimohonkan hanya karena penggugat merasa bukti suratnya kuat. Pengadilan harus ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Apabila kesalahan terdakwa atas tindak pidana yang didakwakan tidak terbukti secara sah dan meyakinkan, hakim menjatuhkan ....",
     "opts": [
-      "menguji syarat khusus dan pembatasan pelaksanaannya",
-      "pihak lawan dianggap mengakui seluruh dalil",
-      "perkara otomatis beralih ke pengadilan tingkat banding",
-      "pengadilan wajib mengabulkan tuntutan tanpa pemeriksaan",
-      "keberatan hanya dapat diajukan setelah putusan akhir"
+      "Putusan bebas",
+      "Putusan lepas",
+      "Putusan pemidanaan",
+      "Putusan tidak dapat diterima",
+      "Putusan verstek"
     ],
     "a": 0,
-    "exp": "Uitvoerbaar bij voorraad bukan otomatis karena bukti kuat; ada syarat, kehati-hatian, dan pengawasan menurut aturan.",
-    "basis": "HIR Pasal 180; SEMA terkait putusan serta-merta"
+    "exp": "Putusan bebas dijatuhkan apabila kesalahan terdakwa tidak terbukti secara sah dan meyakinkan.",
+    "basis": "UU 20/2025 tentang KUHAP, ketentuan putusan bebas."
   },
   {
     "id": "P2-040",
-    "subject": "Hukum Acara Perdata",
-    "q": "Permohonan voluntair diajukan untuk menetapkan hak yang nyata-nyata disengketakan pihak lain. Masalah pokoknya ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Dalam perkara pidana, putusan yang menyatakan terdakwa terbukti melakukan tindak pidana dan dapat dipertanggungjawabkan secara pidana disebut ....",
     "opts": [
-      "perkara otomatis beralih ke pengadilan tingkat banding",
-      "pengadilan wajib mengabulkan tuntutan tanpa pemeriksaan",
-      "keberatan hanya dapat diajukan setelah putusan akhir",
-      "cacat tersebut selalu mengakibatkan gugatan batal demi hukum",
-      "sengketa seharusnya ditempuh melalui gugatan kontensius"
+      "Putusan bebas",
+      "Putusan lepas",
+      "Putusan pemidanaan",
+      "Putusan sela",
+      "Putusan gugur"
     ],
-    "a": 4,
-    "exp": "Voluntair pada prinsipnya tidak ditujukan untuk memutus sengketa antar pihak yang saling berlawanan.",
-    "basis": "HIR/RBg; doktrin voluntair"
+    "a": 2,
+    "exp": "Jika tindak pidana dan pertanggungjawaban pidana terbukti, hakim menjatuhkan putusan pemidanaan sesuai hukum.",
+    "basis": "UU 20/2025 tentang KUHAP."
   },
   {
     "id": "P2-041",
-    "subject": "Hukum Acara Perdata",
-    "q": "Dalam pembuktian, pihak yang mendalilkan suatu hak atau peristiwa untuk meneguhkan haknya pada prinsipnya ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Penggabungan perkara gugatan ganti kerugian ke dalam perkara pidana dimaksudkan untuk ....",
     "opts": [
-      "pengadilan wajib mengabulkan tuntutan tanpa pemeriksaan",
-      "keberatan hanya dapat diajukan setelah putusan akhir",
-      "cacat tersebut selalu mengakibatkan gugatan batal demi hukum",
-      "memikul beban pembuktian atas dalil tersebut",
-      "hakim tidak berwenang menilai persoalan tersebut"
+      "Menggabungkan seluruh perkara perdata terdakwa",
+      "Memungkinkan pemeriksaan tuntutan ganti kerugian yang timbul akibat tindak pidana bersama pemeriksaan pidana sesuai ketentuan",
+      "Menghapus kewajiban pembuktian",
+      "Menggantikan tuntutan pidana",
+      "Menghilangkan hak korban mengajukan restitusi"
     ],
-    "a": 3,
-    "exp": "Beban pembuktian pada prinsipnya mengikuti pihak yang mendalilkan hak atau peristiwa.",
-    "basis": "KUHPerdata Pasal 1865; HIR Pasal 163"
+    "a": 1,
+    "exp": "Penggabungan memungkinkan tuntutan ganti kerugian korban yang timbul langsung dari tindak pidana diperiksa bersama perkara pidana menurut syarat hukum acara.",
+    "basis": "UU 20/2025 tentang KUHAP, ketentuan penggabungan gugatan ganti kerugian."
   },
   {
     "id": "P2-042",
-    "subject": "Hukum Acara Perdata",
-    "q": "Tergugat tidak hadir meski dipanggil secara sah dan patut. Sebelum menjatuhkan verstek, hakim harus memastikan ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Dalam perkara pidana, saksi mahkota pada dasarnya adalah ....",
     "opts": [
-      "keberatan hanya dapat diajukan setelah putusan akhir",
-      "cacat tersebut selalu mengakibatkan gugatan batal demi hukum",
-      "pemanggilan sah dan patut serta gugatan tidak melawan hukum",
-      "hakim tidak berwenang menilai persoalan tersebut",
-      "permohonan harus langsung ditolak tanpa kesempatan perbaikan"
+      "Saksi yang selalu berasal dari keluarga korban",
+      "Terdakwa atau tersangka dalam perkara yang sama atau terkait yang memberikan keterangan sebagai saksi sesuai ketentuan hukum",
+      "Saksi yang tidak wajib memberikan keterangan",
+      "Hakim yang menjadi saksi",
+      "Saksi yang hanya boleh digunakan dalam perkara perdata"
     ],
-    "a": 2,
-    "exp": "Verstek mensyaratkan pemanggilan yang sah dan patut; gugatan juga harus diteliti, tidak otomatis dikabulkan.",
-    "basis": "HIR Pasal 125"
+    "a": 1,
+    "exp": "Istilah saksi mahkota merujuk pada penggunaan salah satu pelaku/terdakwa dalam perkara yang sama atau berkaitan sebagai saksi terhadap pelaku lain; penerapannya harus memperhatikan hak untuk tidak memberatkan diri sendiri dan fair trial.",
+    "basis": "Praktik peradilan pidana dan prinsip fair trial; UU 20/2025 tentang KUHAP."
   },
   {
     "id": "P2-043",
-    "subject": "Hukum Acara Perdata",
-    "q": "Dalam perkara perdata, pengakuan yang diberikan di depan hakim oleh pihak yang berperkara memiliki ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Perbedaan utama saksi mahkota dan justice collaborator adalah ....",
     "opts": [
-      "cacat tersebut selalu mengakibatkan gugatan batal demi hukum",
-      "kekuatan pembuktian yang kuat terhadap pihak yang mengaku",
-      "hakim tidak berwenang menilai persoalan tersebut",
-      "permohonan harus langsung ditolak tanpa kesempatan perbaikan",
-      "akibatnya selalu gugur seluruh alat bukti"
+      "Keduanya selalu memiliki pengertian identik",
+      "Saksi mahkota berkaitan dengan penggunaan sesama pelaku sebagai saksi, sedangkan justice collaborator merupakan pelaku yang bekerja sama dengan penegak hukum untuk mengungkap tindak pidana",
+      "Justice collaborator selalu merupakan korban",
+      "Saksi mahkota tidak pernah terlibat tindak pidana",
+      "Justice collaborator hanya dapat digunakan dalam perkara perdata"
     ],
     "a": 1,
-    "exp": "Pengakuan di muka hakim merupakan alat bukti yang kuat dan pada prinsipnya mengikat pihak yang mengaku.",
-    "basis": "KUHPerdata Pasal 1925"
+    "exp": "Saksi mahkota adalah konstruksi penggunaan pelaku sebagai saksi; justice collaborator adalah saksi pelaku yang bekerja sama mengungkap tindak pidana dan dapat memperoleh perlakuan khusus sesuai syarat.",
+    "basis": "UU 20/2025 tentang KUHAP; UU 31/2014 tentang Perlindungan Saksi dan Korban."
   },
   {
     "id": "P2-044",
-    "subject": "Hukum Acara Perdata",
-    "q": "Sita persamaan dimohonkan atas barang yang sudah lebih dahulu disita dalam perkara lain. Tujuannya ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Dalam perkara pidana, hakim tidak boleh menjatuhkan pidana hanya berdasarkan ....",
     "opts": [
-      "menjaga kedudukan pemohon agar dapat ikut memperoleh hasil eksekusi sesuai haknya",
-      "hakim tidak berwenang menilai persoalan tersebut",
-      "permohonan harus langsung ditolak tanpa kesempatan perbaikan",
-      "akibatnya selalu gugur seluruh alat bukti",
-      "pihak lawan dianggap mengakui seluruh dalil"
+      "Keterangan saksi dan alat bukti lain",
+      "Alat bukti yang sah",
+      "Pengakuan terdakwa semata tanpa memenuhi ketentuan pembuktian",
+      "Keterangan ahli",
+      "Alat bukti surat"
     ],
-    "a": 0,
-    "exp": "Sita persamaan mencatat kepentingan pemohon atas objek yang telah disita, tanpa mengambil alih sita terdahulu.",
-    "basis": "HIR/RBg; praktik sita persamaan"
+    "a": 2,
+    "exp": "Pengakuan terdakwa tidak cukup berdiri sendiri untuk menjadi dasar pemidanaan; hakim harus mendasarkan putusan pada alat bukti sah dan keyakinan sesuai hukum acara.",
+    "basis": "UU 20/2025 tentang KUHAP, ketentuan sistem pembuktian."
   },
   {
     "id": "P2-045",
-    "subject": "Hukum Acara Perdata",
-    "q": "Dalam perkara perdata, sumpah pemutus ditawarkan ketika bukti lain tidak cukup dan pihak lawan bersedia menerimanya. Sumpah itu ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Apabila terdapat dugaan barang bukti diperoleh melalui tindakan yang melanggar hukum, persoalan yang harus diperiksa antara lain ....",
     "opts": [
-      "permohonan harus langsung ditolak tanpa kesempatan perbaikan",
-      "akibatnya selalu gugur seluruh alat bukti",
-      "pihak lawan dianggap mengakui seluruh dalil",
-      "perkara otomatis beralih ke pengadilan tingkat banding",
-      "dapat menentukan penyelesaian sesuai syarat hukum pembuktian"
+      "Apakah barang bukti memiliki nilai ekonomi",
+      "Legalitas perolehan dan keabsahan alat bukti menurut ketentuan hukum acara",
+      "Apakah barang bukti disukai hakim",
+      "Apakah penyidik telah memublikasikannya",
+      "Apakah barang bukti telah diperlihatkan kepada media"
     ],
-    "a": 4,
-    "exp": "Sumpah pemutus dapat berfungsi menentukan hasil sengketa jika ditawarkan dan diterima sesuai ketentuan.",
-    "basis": "KUHPerdata tentang sumpah"
+    "a": 1,
+    "exp": "Hakim perlu menilai legalitas tindakan memperoleh bukti dan keabsahan bukti menurut ketentuan KUHAP serta jaminan hak asasi.",
+    "basis": "UU 20/2025 tentang KUHAP, ketentuan alat bukti dan upaya paksa."
   },
   {
     "id": "P2-046",
-    "subject": "Hukum Acara Perdata",
-    "q": "Permohonan eksekusi diajukan atas putusan yang belum berkekuatan hukum tetap dan tidak dapat dijalankan serta-merta. Pada umumnya ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Upaya hukum biasa terhadap putusan pengadilan pidana pada prinsipnya meliputi ....",
     "opts": [
-      "akibatnya selalu gugur seluruh alat bukti",
-      "pihak lawan dianggap mengakui seluruh dalil",
-      "perkara otomatis beralih ke pengadilan tingkat banding",
-      "eksekusi belum dapat dilaksanakan",
-      "pengadilan wajib mengabulkan tuntutan tanpa pemeriksaan"
+      "Banding dan kasasi",
+      "Peninjauan kembali dan grasi",
+      "Amnesti dan abolisi",
+      "Rehabilitasi dan restitusi",
+      "Eksekusi dan pengawasan"
     ],
-    "a": 3,
-    "exp": "Eksekusi pada prinsipnya mensyaratkan putusan berkekuatan hukum tetap, kecuali pengecualian yang sah.",
-    "basis": "HIR Pasal 195 dan seterusnya"
+    "a": 0,
+    "exp": "Banding dan kasasi merupakan upaya hukum biasa; perlawanan dapat tersedia pada keadaan tertentu sesuai KUHAP.",
+    "basis": "UU 20/2025 tentang KUHAP, ketentuan upaya hukum."
   },
   {
     "id": "P2-047",
-    "subject": "Hukum Acara Perdata",
-    "q": "Tergugat mengajukan eksepsi obscuur libel karena posita dan petitum saling bertentangan. Eksepsi ini menyasar ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Peninjauan kembali dalam perkara pidana termasuk ....",
     "opts": [
-      "pihak lawan dianggap mengakui seluruh dalil",
-      "perkara otomatis beralih ke pengadilan tingkat banding",
-      "ketidakjelasan atau ketidakpastian gugatan",
-      "pengadilan wajib mengabulkan tuntutan tanpa pemeriksaan",
-      "keberatan hanya dapat diajukan setelah putusan akhir"
+      "Upaya hukum biasa",
+      "Upaya hukum luar biasa",
+      "Upaya administratif",
+      "Upaya hukum perdata",
+      "Upaya eksekutorial"
     ],
-    "a": 2,
-    "exp": "Obscuur libel berkaitan dengan gugatan yang kabur, tidak jelas, atau kontradiktif sehingga menyulitkan pembelaan.",
-    "basis": "Hukum acara perdata; doktrin eksepsi"
+    "a": 1,
+    "exp": "Peninjauan kembali merupakan upaya hukum luar biasa terhadap putusan yang telah berkekuatan hukum tetap berdasarkan alasan yang ditentukan undang-undang.",
+    "basis": "UU 20/2025 tentang KUHAP, ketentuan peninjauan kembali."
   },
   {
     "id": "P2-048",
-    "subject": "Hukum Acara Perdata",
-    "q": "Pihak yang kalah mengajukan banding melalui pengadilan tingkat pertama. Fungsi pengadilan tingkat pertama dalam proses ini ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Apabila putusan pidana telah berkekuatan hukum tetap, pelaksanaan putusan pada prinsipnya dilakukan oleh ....",
     "opts": [
-      "perkara otomatis beralih ke pengadilan tingkat banding",
-      "menerima permohonan dan meneruskan berkas sesuai prosedur",
-      "pengadilan wajib mengabulkan tuntutan tanpa pemeriksaan",
-      "keberatan hanya dapat diajukan setelah putusan akhir",
-      "cacat tersebut selalu mengakibatkan gugatan batal demi hukum"
+      "Ketua pengadilan tinggi",
+      "Jaksa",
+      "Penyidik",
+      "Advokat",
+      "Panitera pengganti"
     ],
     "a": 1,
-    "exp": "Permohonan banding diajukan melalui pengadilan yang memutus tingkat pertama untuk diproses dan diteruskan ke pengadilan tinggi.",
-    "basis": "HIR/RBg; ketentuan banding"
+    "exp": "Jaksa bertindak sebagai pelaksana putusan pengadilan yang telah berkekuatan hukum tetap.",
+    "basis": "UU 20/2025 tentang KUHAP, ketentuan pelaksanaan putusan; UU Kejaksaan."
   },
   {
     "id": "P2-049",
-    "subject": "Hukum Acara Perdata",
-    "q": "Hakim menemukan pihak yang seharusnya ikut digugat tetapi tidak ditarik, dan putusan berpotensi tidak efektif. Isu yang muncul ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Asas ne bis in idem mengandung arti ....",
     "opts": [
-      "kurang pihak atau plurium litis consortium",
-      "pengadilan wajib mengabulkan tuntutan tanpa pemeriksaan",
-      "keberatan hanya dapat diajukan setelah putusan akhir",
-      "cacat tersebut selalu mengakibatkan gugatan batal demi hukum",
-      "hakim tidak berwenang menilai persoalan tersebut"
+      "Seseorang dapat diadili berkali-kali untuk perkara yang sama",
+      "Seseorang tidak boleh dituntut atau diadili kembali atas perkara yang sama apabila telah memenuhi syarat putusan berkekuatan hukum tetap",
+      "Hakim wajib memeriksa perkara secara terbuka",
+      "Terdakwa berhak mengajukan pembelaan",
+      "Penuntut umum wajib menghadirkan seluruh saksi"
     ],
-    "a": 0,
-    "exp": "Kurang pihak dapat menghambat pemeriksaan atau efektivitas putusan bila pihak berkepentingan tidak disertakan.",
-    "basis": "Hukum acara perdata; doktrin pihak"
+    "a": 1,
+    "exp": "Ne bis in idem melarang penuntutan/pengadilan ulang atas perkara yang sama terhadap orang yang sama setelah putusan berkekuatan hukum tetap sesuai syarat undang-undang.",
+    "basis": "UU 1/2023 tentang KUHP, ketentuan ne bis in idem; UU 20/2025 tentang KUHAP."
   },
   {
     "id": "P2-050",
-    "subject": "Hukum Acara Perdata",
-    "q": "Dalam eksekusi riil, termohon tetap tidak melaksanakan putusan setelah aanmaning. Pengadilan dapat ...",
+    "subject": "Hukum Acara Pidana",
+    "q": "Dalam hukum acara pidana, hak tersangka dan terdakwa untuk memperoleh bantuan hukum merupakan perwujudan dari ....",
     "opts": [
-      "keberatan hanya dapat diajukan setelah putusan akhir",
-      "cacat tersebut selalu mengakibatkan gugatan batal demi hukum",
-      "hakim tidak berwenang menilai persoalan tersebut",
-      "permohonan harus langsung ditolak tanpa kesempatan perbaikan",
-      "melanjutkan tindakan eksekusi sesuai tata cara yang berlaku"
+      "Asas oportunitas semata",
+      "Prinsip peradilan yang adil dan perlindungan hak asasi manusia",
+      "Asas pembalasan",
+      "Asas dominus litis",
+      "Asas kebebasan tanpa batas"
     ],
-    "a": 4,
-    "exp": "Jika teguran tidak dipatuhi, ketua pengadilan dapat memerintahkan pelaksanaan eksekusi sesuai hukum acara.",
-    "basis": "HIR Pasal 196–200"
+    "a": 1,
+    "exp": "Bantuan hukum menjamin hak pembelaan, kesetaraan senjata, dan proses peradilan yang adil.",
+    "basis": "UU 20/2025 tentang KUHAP; UU 16/2011 tentang Bantuan Hukum; UUD 1945 Pasal 28D."
   },
   {
     "id": "P2-051",
-    "subject": "Hukum Pidana",
-    "q": "Pelaku melakukan perbuatan yang ketika dilakukan bukan tindak pidana, tetapi kemudian undang-undang baru mengkriminalkannya. Asas yang melarang pemidanaan adalah ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Syarat sah perjanjian berdasarkan Pasal 1320 KUHPerdata terdiri atas ....",
     "opts": [
-      "pelaku selalu bebas tanpa pemeriksaan kesalahan",
-      "keadaan itu otomatis menghapus seluruh akibat hukum",
-      "pidana harus dijatuhkan dalam jumlah maksimum",
-      "non-retroaktif dalam hukum pidana",
-      "pertanggungjawaban hanya dapat dibebankan kepada korban"
+      "Kesepakatan, kecakapan, suatu hal tertentu, dan sebab yang halal",
+      "Kesepakatan, saksi, notaris, dan objek tertentu",
+      "Kecakapan, akta autentik, saksi, dan sebab yang halal",
+      "Kesepakatan, pembayaran, penyerahan, dan pendaftaran",
+      "Objek tertentu, saksi, persetujuan hakim, dan pembayaran"
     ],
-    "a": 3,
-    "exp": "Asas legalitas melarang pemidanaan retroaktif atas perbuatan yang belum dipidana saat dilakukan, dengan pengecualian terbatas menurut hukum.",
-    "basis": "KUHP UU 1/2023; asas legalitas"
+    "a": 0,
+    "exp": "Empat syarat sah perjanjian adalah sepakat, cakap, objek tertentu, dan sebab yang tidak terlarang.",
+    "basis": "KUHPerdata, Pasal 1320."
   },
   {
     "id": "P2-052",
-    "subject": "Hukum Pidana",
-    "q": "Undang-undang baru setelah perbuatan dilakukan menghapus sifat pidana perbuatan tersebut. Prinsip yang relevan ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Apabila suatu perjanjian dibuat karena adanya paksaan, akibat hukumnya adalah ....",
     "opts": [
-      "keadaan itu otomatis menghapus seluruh akibat hukum",
-      "pidana harus dijatuhkan dalam jumlah maksimum",
-      "ketentuan yang lebih menguntungkan berlaku bagi pelaku",
-      "pertanggungjawaban hanya dapat dibebankan kepada korban",
-      "niat saja selalu cukup untuk pemidanaan"
+      "Batal demi hukum",
+      "Dapat dibatalkan",
+      "Otomatis menjadi perjanjian hibah",
+      "Tidak pernah menimbulkan hubungan hukum",
+      "Selalu sah apabila dibuat secara tertulis"
     ],
-    "a": 2,
-    "exp": "Perubahan hukum yang menguntungkan, termasuk dekriminalisasi, diterapkan sesuai ketentuan hukum pidana antarwaktu.",
-    "basis": "KUHP UU 1/2023 tentang perubahan perundang-undangan"
+    "a": 1,
+    "exp": "Paksaan merupakan cacat kehendak yang menyebabkan perjanjian dapat dimintakan pembatalan, bukan otomatis batal demi hukum.",
+    "basis": "KUHPerdata, Pasal 1321 dan ketentuan paksaan."
   },
   {
     "id": "P2-053",
-    "subject": "Hukum Pidana",
-    "q": "Pelaku memiliki niat melakukan pencurian, tetapi sebelum mulai melaksanakan perbuatan ia membatalkan sendiri. Pada prinsipnya ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Perbedaan antara syarat subjektif dan objektif dalam Pasal 1320 KUHPerdata adalah ....",
     "opts": [
-      "pidana harus dijatuhkan dalam jumlah maksimum",
-      "belum ada percobaan yang dapat dipidana jika belum mulai pelaksanaan",
-      "pertanggungjawaban hanya dapat dibebankan kepada korban",
-      "niat saja selalu cukup untuk pemidanaan",
-      "hakim tidak boleh mempertimbangkan keadaan konkret"
+      "Pelanggaran syarat subjektif menyebabkan batal demi hukum",
+      "Pelanggaran syarat objektif menyebabkan dapat dibatalkan",
+      "Pelanggaran syarat subjektif menyebabkan dapat dibatalkan, sedangkan syarat objektif menyebabkan batal demi hukum",
+      "Keduanya menyebabkan perjanjian tetap sah",
+      "Keduanya tidak mempunyai akibat hukum"
     ],
-    "a": 1,
-    "exp": "Percobaan mensyaratkan permulaan pelaksanaan; niat dan persiapan saja tidak cukup.",
-    "basis": "KUHP UU 1/2023 tentang percobaan"
+    "a": 2,
+    "exp": "Kesepakatan dan kecakapan adalah syarat subjektif; objek tertentu dan sebab halal adalah syarat objektif. Cacat subjektif dapat dibatalkan, cacat objektif batal demi hukum.",
+    "basis": "KUHPerdata, Pasal 1320."
   },
   {
     "id": "P2-054",
-    "subject": "Hukum Pidana",
-    "q": "Seseorang sengaja memberi sarana kepada pelaku sebelum tindak pidana, dan tindak pidana benar-benar terjadi. Bentuk penyertaan yang paling tepat ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Asas pacta sunt servanda diatur dalam ....",
     "opts": [
-      "pembantuan jika kontribusinya memenuhi unsur membantu",
-      "pertanggungjawaban hanya dapat dibebankan kepada korban",
-      "niat saja selalu cukup untuk pemidanaan",
-      "hakim tidak boleh mempertimbangkan keadaan konkret",
-      "perbuatan tersebut selalu menjadi delik aduan"
+      "Pasal 1238 KUHPerdata",
+      "Pasal 1243 KUHPerdata",
+      "Pasal 1338 KUHPerdata",
+      "Pasal 1320 KUHPerdata",
+      "Pasal 1365 KUHPerdata"
     ],
-    "a": 0,
-    "exp": "Pembantuan dibedakan dari turut serta atau menyuruh melakukan berdasarkan peran dan kontribusi konkret.",
-    "basis": "KUHP UU 1/2023 tentang penyertaan"
+    "a": 2,
+    "exp": "Perjanjian yang dibuat secara sah berlaku sebagai undang-undang bagi para pihak.",
+    "basis": "KUHPerdata, Pasal 1338 ayat (1)."
   },
   {
     "id": "P2-055",
-    "subject": "Hukum Pidana",
-    "q": "Pelaku memaksa korban menyerahkan barang dengan ancaman kekerasan seketika. Pembeda utama dari pencurian biasa adalah ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "A berjanji menjual tanah kepada B, tetapi kemudian menjual tanah tersebut kepada C tanpa memenuhi kewajibannya kepada B. Apabila perjanjian A dan B sah, persoalan hukum yang paling tepat adalah ....",
     "opts": [
-      "niat saja selalu cukup untuk pemidanaan",
-      "hakim tidak boleh mempertimbangkan keadaan konkret",
-      "perbuatan tersebut selalu menjadi delik aduan",
-      "unsur tersebut tidak perlu dibuktikan jika akibat terjadi",
-      "adanya pemaksaan melalui kekerasan atau ancaman kekerasan"
+      "Wanprestasi",
+      "Perbuatan melawan hukum secara otomatis",
+      "Perbuatan pidana pencurian",
+      "Perjanjian batal demi hukum secara otomatis",
+      "Perikatan alamiah"
     ],
-    "a": 4,
-    "exp": "Perampasan dengan kekerasan atau ancaman kekerasan memiliki unsur tambahan dibanding pengambilan tanpa pemaksaan.",
-    "basis": "KUHP UU 1/2023 tentang tindak pidana terhadap harta benda"
+    "a": 0,
+    "exp": "Tidak dipenuhinya kewajiban kontraktual kepada B pada prinsipnya merupakan wanprestasi; akibat terhadap C dan hak atas tanah perlu dinilai terpisah berdasarkan hukum pertanahan dan itikad baik.",
+    "basis": "KUHPerdata, Pasal 1238, 1243, dan 1338; UUPA dan peraturan pendaftaran tanah."
   },
   {
     "id": "P2-056",
-    "subject": "Hukum Pidana",
-    "q": "Pelaku mengambil barang milik orang lain karena mengira barang itu miliknya sendiri. Unsur yang paling mungkin dipersoalkan ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Unsur-unsur perbuatan melawan hukum berdasarkan Pasal 1365 KUHPerdata meliputi ....",
     "opts": [
-      "hakim tidak boleh mempertimbangkan keadaan konkret",
-      "perbuatan tersebut selalu menjadi delik aduan",
-      "unsur tersebut tidak perlu dibuktikan jika akibat terjadi",
-      "kesengajaan dan sifat melawan hukum dalam pengambilan",
-      "pelaku selalu bebas tanpa pemeriksaan kesalahan"
+      "Perbuatan, kesalahan, kerugian, dan hubungan kausal",
+      "Perbuatan, perjanjian, pembayaran, dan penyerahan",
+      "Kesepakatan, kecakapan, objek, dan sebab",
+      "Perbuatan, niat, saksi, dan pengakuan",
+      "Kerugian, keuntungan, dan putusan pengadilan"
     ],
-    "a": 3,
-    "exp": "Kekeliruan faktual mengenai kepemilikan dapat memengaruhi kesengajaan dan penilaian sifat melawan hukum.",
-    "basis": "KUHP UU 1/2023; asas kesalahan"
+    "a": 0,
+    "exp": "Unsur PMH meliputi perbuatan melawan hukum, kesalahan, kerugian, dan hubungan sebab akibat antara perbuatan dan kerugian.",
+    "basis": "KUHPerdata, Pasal 1365."
   },
   {
     "id": "P2-057",
-    "subject": "Hukum Pidana",
-    "q": "Orang melakukan perbuatan untuk menghindari bahaya yang mengancam dirinya, dengan syarat bahaya tidak dapat dihindari secara lain dan tindakan seimbang. Alasan penghapus pidana ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Debitur tidak memenuhi prestasi sebagaimana diperjanjikan. Keadaan tersebut disebut ....",
     "opts": [
-      "perbuatan tersebut selalu menjadi delik aduan",
-      "unsur tersebut tidak perlu dibuktikan jika akibat terjadi",
-      "keadaan darurat",
-      "pelaku selalu bebas tanpa pemeriksaan kesalahan",
-      "keadaan itu otomatis menghapus seluruh akibat hukum"
+      "Overmacht",
+      "Wanprestasi",
+      "Novasi",
+      "Subrogasi",
+      "Kompensasi"
     ],
-    "a": 2,
-    "exp": "Keadaan darurat dapat menjadi alasan pembenar atau pemaaf sesuai konstruksi dan syarat undang-undang.",
-    "basis": "KUHP UU 1/2023 tentang alasan penghapus pidana"
+    "a": 1,
+    "exp": "Wanprestasi adalah tidak dipenuhinya prestasi, terlambat memenuhi, keliru memenuhi, atau melakukan hal yang dilarang dalam perikatan.",
+    "basis": "KUHPerdata, Pasal 1238 dan 1243."
   },
   {
     "id": "P2-058",
-    "subject": "Hukum Pidana",
-    "q": "Seseorang membela diri dari serangan melawan hukum yang seketika, tetapi reaksinya jauh melampaui kebutuhan. Penilaian utama ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Dalam hukum perikatan, keadaan memaksa (overmacht) pada prinsipnya dapat mengakibatkan ....",
     "opts": [
-      "unsur tersebut tidak perlu dibuktikan jika akibat terjadi",
-      "batas pembelaan terpaksa dan kemungkinan ekses yang dapat dimaafkan",
-      "pelaku selalu bebas tanpa pemeriksaan kesalahan",
-      "keadaan itu otomatis menghapus seluruh akibat hukum",
-      "pidana harus dijatuhkan dalam jumlah maksimum"
+      "Debitur selalu wajib membayar ganti rugi",
+      "Debitur dapat dibebaskan dari kewajiban ganti rugi apabila memenuhi persyaratan hukum",
+      "Perjanjian otomatis menjadi perjanjian jual beli",
+      "Kreditur kehilangan seluruh haknya",
+      "Perikatan berubah menjadi perikatan pidana"
     ],
     "a": 1,
-    "exp": "Pembelaan terpaksa mensyaratkan serangan seketika dan proporsionalitas; ekses dinilai berdasarkan syarat hukum.",
-    "basis": "KUHP UU 1/2023 tentang pembelaan terpaksa"
+    "exp": "Keadaan memaksa yang memenuhi syarat dapat membebaskan debitur dari ganti rugi; penilaiannya bergantung pada sebab, kesalahan, dan alokasi risiko.",
+    "basis": "KUHPerdata, Pasal 1244 dan 1245."
   },
   {
     "id": "P2-059",
-    "subject": "Hukum Pidana",
-    "q": "Pelaku melakukan tindak pidana karena paksaan yang tidak dapat ditahan menurut hukum. Kategori alasan penghapus pidana yang lazim ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Perikatan yang lahir karena undang-undang dan perbuatan manusia yang sah antara lain dikenal sebagai ....",
     "opts": [
-      "alasan pemaaf",
-      "pelaku selalu bebas tanpa pemeriksaan kesalahan",
-      "keadaan itu otomatis menghapus seluruh akibat hukum",
-      "pidana harus dijatuhkan dalam jumlah maksimum",
-      "pertanggungjawaban hanya dapat dibebankan kepada korban"
+      "Perikatan yang lahir dari perjanjian dan undang-undang",
+      "Perikatan yang hanya lahir dari putusan hakim",
+      "Perikatan yang hanya lahir dari perbuatan melawan hukum",
+      "Perikatan yang hanya lahir dari kesepakatan tertulis",
+      "Perikatan yang hanya lahir dari kebiasaan"
     ],
     "a": 0,
-    "exp": "Paksaan tertentu dapat menghapus kesalahan pelaku tanpa membenarkan perbuatannya.",
-    "basis": "KUHP UU 1/2023 tentang alasan pemaaf"
+    "exp": "Sumber perikatan adalah perjanjian dan undang-undang; perikatan dari undang-undang dapat timbul tanpa perbuatan manusia atau karena perbuatan manusia yang sah maupun melawan hukum.",
+    "basis": "KUHPerdata, Pasal 1233 dan 1352."
   },
   {
     "id": "P2-060",
-    "subject": "Hukum Pidana",
-    "q": "Seseorang membantu pelaku setelah tindak pidana selesai, tanpa kesepakatan sebelumnya, dengan menyembunyikan pelaku. Peran ini ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Perjanjian yang dibuat dengan objek yang dilarang oleh undang-undang atau bertentangan dengan kesusilaan dan ketertiban umum mengandung persoalan ....",
     "opts": [
-      "keadaan itu otomatis menghapus seluruh akibat hukum",
-      "pidana harus dijatuhkan dalam jumlah maksimum",
-      "pertanggungjawaban hanya dapat dibebankan kepada korban",
-      "niat saja selalu cukup untuk pemidanaan",
-      "tidak otomatis merupakan pembantuan pada tindak pidana pokok"
+      "Kecakapan",
+      "Kesepakatan",
+      "Sebab yang halal",
+      "Kekuatan pembuktian",
+      "Penyerahan objek"
     ],
-    "a": 4,
-    "exp": "Pembantuan terhadap tindak pidana pokok umumnya harus terkait sebelum atau saat pelaksanaan; bantuan setelahnya dinilai menurut delik tersendiri.",
-    "basis": "KUHP UU 1/2023 tentang penyertaan"
+    "a": 2,
+    "exp": "Sebab yang halal mengharuskan tujuan/causa perjanjian tidak dilarang undang-undang dan tidak bertentangan dengan kesusilaan atau ketertiban umum.",
+    "basis": "KUHPerdata, Pasal 1320 angka 4 dan Pasal 1337."
   },
   {
     "id": "P2-061",
-    "subject": "Hukum Pidana",
-    "q": "Dalam delik culpa, akibat timbul karena pelaku tidak berhati-hati meski dapat memperkirakannya. Unsur kesalahan yang relevan ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Dalam hukum waris perdata, ahli waris yang menggantikan kedudukan ahli waris yang telah meninggal lebih dahulu dikenal dengan konsep ....",
     "opts": [
-      "pidana harus dijatuhkan dalam jumlah maksimum",
-      "pertanggungjawaban hanya dapat dibebankan kepada korban",
-      "niat saja selalu cukup untuk pemidanaan",
-      "kealpaan yang memenuhi ukuran hukum",
-      "hakim tidak boleh mempertimbangkan keadaan konkret"
+      "Legaat",
+      "Testament",
+      "Plaatsvervulling",
+      "Hibah",
+      "Boedel"
     ],
-    "a": 3,
-    "exp": "Kealpaan mensyaratkan pelanggaran kehati-hatian dan ketercelaan yang dapat dipertanggungjawabkan.",
-    "basis": "KUHP UU 1/2023 tentang kealpaan"
+    "a": 2,
+    "exp": "Plaatsvervulling adalah penggantian tempat/kedudukan ahli waris oleh keturunannya dalam keadaan yang ditentukan KUHPerdata.",
+    "basis": "KUHPerdata, Pasal 841 dan seterusnya."
   },
   {
     "id": "P2-062",
-    "subject": "Hukum Pidana",
-    "q": "Pelaku mengalami gangguan jiwa ketika melakukan perbuatan, tetapi gangguan tersebut tidak menghapus kemampuan bertanggung jawab sepenuhnya. Hakim perlu ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Surat wasiat yang dibuat oleh seseorang untuk menentukan pembagian harta peninggalannya setelah meninggal dunia disebut ....",
     "opts": [
-      "pertanggungjawaban hanya dapat dibebankan kepada korban",
-      "niat saja selalu cukup untuk pemidanaan",
-      "menilai kemampuan bertanggung jawab dan pengaruhnya terhadap pidana",
-      "hakim tidak boleh mempertimbangkan keadaan konkret",
-      "perbuatan tersebut selalu menjadi delik aduan"
+      "Akta jual beli",
+      "Testament",
+      "Akta pengakuan utang",
+      "Surat kuasa",
+      "Akta perdamaian"
     ],
-    "a": 2,
-    "exp": "Gangguan jiwa tidak otomatis menghapus pertanggungjawaban; penilaian bergantung pada kemampuan pelaku saat perbuatan.",
-    "basis": "KUHP UU 1/2023 tentang pertanggungjawaban pidana"
+    "a": 1,
+    "exp": "Testament atau wasiat merupakan akta yang memuat kehendak seseorang mengenai apa yang dikehendaki terjadi setelah ia meninggal, dalam batas hukum.",
+    "basis": "KUHPerdata, Pasal 875."
   },
   {
     "id": "P2-063",
-    "subject": "Hukum Pidana",
-    "q": "Tindak pidana dilakukan oleh korporasi melalui pengurus untuk kepentingan korporasi. Pertanggungjawaban dapat dikenakan kepada ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Dalam hukum waris, legitime portie merupakan ....",
     "opts": [
-      "niat saja selalu cukup untuk pemidanaan",
-      "korporasi dan/atau pihak yang ditentukan undang-undang berdasarkan perannya",
-      "hakim tidak boleh mempertimbangkan keadaan konkret",
-      "perbuatan tersebut selalu menjadi delik aduan",
-      "unsur tersebut tidak perlu dibuktikan jika akibat terjadi"
+      "Bagian mutlak yang dilindungi bagi ahli waris tertentu menurut undang-undang",
+      "Bagian warisan yang bebas diberikan kepada siapa saja",
+      "Harta yang otomatis menjadi milik negara",
+      "Bagian warisan yang hanya berlaku untuk anak angkat",
+      "Hak kreditur untuk menguasai seluruh warisan"
     ],
-    "a": 1,
-    "exp": "KUHP Baru mengatur pertanggungjawaban pidana korporasi dan pihak terkait sesuai kriteria hukum.",
-    "basis": "KUHP UU 1/2023 tentang korporasi"
+    "a": 0,
+    "exp": "Legitime portie adalah bagian mutlak dari warisan yang menjadi hak legitimaris dan tidak boleh dikurangi oleh pewarisan testamenter melebihi batas yang ditentukan.",
+    "basis": "KUHPerdata, Pasal 913 dan seterusnya."
   },
   {
     "id": "P2-064",
-    "subject": "Hukum Pidana",
-    "q": "Dalam pemidanaan, hakim mempertimbangkan dampak terhadap korban dan pemulihan kerugian. Pendekatan ini paling dekat dengan ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Perkawinan yang dilangsungkan tanpa memenuhi syarat yang ditentukan undang-undang dapat menimbulkan akibat ....",
     "opts": [
-      "keadilan restoratif dan pemulihan korban",
-      "hakim tidak boleh mempertimbangkan keadaan konkret",
-      "perbuatan tersebut selalu menjadi delik aduan",
-      "unsur tersebut tidak perlu dibuktikan jika akibat terjadi",
-      "pelaku selalu bebas tanpa pemeriksaan kesalahan"
+      "Selalu sah sepanjang ada persetujuan keluarga",
+      "Tidak memiliki akibat hukum apa pun",
+      "Dapat dibatalkan atau dinyatakan tidak sah sesuai jenis pelanggaran dan ketentuan hukum yang berlaku",
+      "Otomatis menjadi perkawinan adat",
+      "Selalu menjadi perkawinan sementara"
     ],
-    "a": 0,
-    "exp": "Pemulihan kerugian korban merupakan pertimbangan penting dalam pendekatan restoratif, tanpa menghapus syarat hukum pidana.",
-    "basis": "KUHP UU 1/2023; prinsip pemidanaan"
+    "a": 2,
+    "exp": "Akibat hukum bergantung pada jenis pelanggaran syarat perkawinan; UU Perkawinan mengatur pencegahan dan pembatalan perkawinan.",
+    "basis": "UU 1/1974 tentang Perkawinan sebagaimana diubah UU 16/2019, Pasal 22 dan seterusnya."
   },
   {
     "id": "P2-065",
-    "subject": "Hukum Pidana",
-    "q": "Pidana denda dijatuhkan kepada korporasi. Jika undang-undang menentukan pidana tambahan tertentu, hakim ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Dalam hukum benda, hak kebendaan memiliki sifat ....",
     "opts": [
-      "perbuatan tersebut selalu menjadi delik aduan",
-      "unsur tersebut tidak perlu dibuktikan jika akibat terjadi",
-      "pelaku selalu bebas tanpa pemeriksaan kesalahan",
-      "keadaan itu otomatis menghapus seluruh akibat hukum",
-      "dapat menjatuhkan pidana tambahan bila dasar dan syaratnya terpenuhi"
+      "Relatif, hanya berlaku antara para pihak",
+      "Absolut, dapat dipertahankan terhadap siapa pun",
+      "Hanya berlaku terhadap kreditur tertentu",
+      "Tidak dapat dialihkan",
+      "Tidak dapat dibebani hak lain"
     ],
-    "a": 4,
-    "exp": "Pidana tambahan hanya dapat dijatuhkan dengan dasar hukum dan memenuhi syarat yang ditentukan.",
-    "basis": "KUHP UU 1/2023 tentang pidana korporasi"
+    "a": 1,
+    "exp": "Hak kebendaan bersifat absolut (dapat dipertahankan terhadap pihak ketiga), mengikuti bendanya, dan memiliki sifat khusus lain menurut jenis hak.",
+    "basis": "KUHPerdata Buku II dan doktrin hukum benda."
   },
   {
     "id": "P2-066",
-    "subject": "Hukum Pidana",
-    "q": "Pelaku mengulangi tindak pidana setelah pernah dipidana dan memenuhi syarat residivisme dalam undang-undang. Keadaan tersebut ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Hak milik menurut Pasal 570 KUHPerdata pada prinsipnya memberikan kewenangan kepada pemilik untuk ....",
     "opts": [
-      "unsur tersebut tidak perlu dibuktikan jika akibat terjadi",
-      "pelaku selalu bebas tanpa pemeriksaan kesalahan",
-      "keadaan itu otomatis menghapus seluruh akibat hukum",
-      "dapat menjadi faktor pemberatan sesuai ketentuan",
-      "pidana harus dijatuhkan dalam jumlah maksimum"
+      "Menggunakan dan menikmati benda secara bebas sepanjang tidak bertentangan dengan undang-undang dan hak orang lain",
+      "Menguasai benda tanpa batas",
+      "Menghilangkan hak orang lain atas benda tersebut",
+      "Mengalihkan benda tanpa memperhatikan ketentuan hukum",
+      "Menggunakan benda untuk tujuan apa pun meskipun melanggar hukum"
     ],
-    "a": 3,
-    "exp": "Pengulangan tindak pidana dapat berpengaruh pada pemberatan bila syarat residivisme dipenuhi.",
-    "basis": "KUHP UU 1/2023 tentang pemberatan pidana"
+    "a": 0,
+    "exp": "Hak milik memberi kewenangan menikmati dan berbuat bebas atas benda, tetapi dibatasi undang-undang dan hak orang lain.",
+    "basis": "KUHPerdata, Pasal 570."
   },
   {
     "id": "P2-067",
-    "subject": "Hukum Pidana",
-    "q": "Dua perbuatan dilakukan dalam satu rangkaian yang dipandang sebagai perbuatan berlanjut menurut hukum. Penerapan pidana ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Dalam hukum jaminan, hak tanggungan pada dasarnya digunakan untuk menjamin ....",
     "opts": [
-      "pelaku selalu bebas tanpa pemeriksaan kesalahan",
-      "keadaan itu otomatis menghapus seluruh akibat hukum",
-      "mengikuti aturan khusus perbarengan atau perbuatan berlanjut",
-      "pidana harus dijatuhkan dalam jumlah maksimum",
-      "pertanggungjawaban hanya dapat dibebankan kepada korban"
+      "Benda bergerak berwujud",
+      "Hak atas tanah beserta benda-benda yang berkaitan dengan tanah sesuai undang-undang",
+      "Seluruh benda tidak berwujud tanpa pengecualian",
+      "Piutang yang tidak dapat dinilai dengan uang",
+      "Hak pribadi yang tidak dapat dialihkan"
     ],
-    "a": 2,
-    "exp": "Perbuatan berlanjut memiliki aturan pemidanaan tersendiri dan tidak sekadar menjumlahkan semua ancaman.",
-    "basis": "KUHP UU 1/2023 tentang perbarengan"
+    "a": 1,
+    "exp": "Hak tanggungan adalah hak jaminan atas hak atas tanah beserta benda yang berkaitan dengan tanah sebagaimana ditentukan undang-undang.",
+    "basis": "UU 4/1996 tentang Hak Tanggungan, Pasal 1 angka 1."
   },
   {
     "id": "P2-068",
-    "subject": "Hukum Pidana",
-    "q": "Pelaku melakukan beberapa tindak pidana sebelum ada putusan yang berkekuatan hukum tetap atas salah satunya. Isu pemidanaan ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Fidusia merupakan ....",
     "opts": [
-      "keadaan itu otomatis menghapus seluruh akibat hukum",
-      "perbarengan tindak pidana",
-      "pidana harus dijatuhkan dalam jumlah maksimum",
-      "pertanggungjawaban hanya dapat dibebankan kepada korban",
-      "niat saja selalu cukup untuk pemidanaan"
+      "Pengalihan hak kepemilikan suatu benda atas dasar kepercayaan dengan ketentuan benda tetap dalam penguasaan pemilik benda",
+      "Penyerahan fisik benda kepada kreditur",
+      "Hak jaminan atas tanah",
+      "Perjanjian sewa-menyewa",
+      "Perjanjian penitipan barang"
     ],
-    "a": 1,
-    "exp": "Perbarengan mengatur penjatuhan pidana ketika beberapa tindak pidana dilakukan dalam kondisi yang ditentukan undang-undang.",
-    "basis": "KUHP UU 1/2023 tentang perbarengan"
+    "a": 0,
+    "exp": "Fidusia adalah pengalihan hak kepemilikan atas dasar kepercayaan dengan benda tetap dalam penguasaan pemberi fidusia.",
+    "basis": "UU 42/1999 tentang Jaminan Fidusia, Pasal 1 angka 1."
   },
   {
     "id": "P2-069",
-    "subject": "Hukum Pidana",
-    "q": "Tindak pidana diancam pidana penjara dan denda secara alternatif. Hakim memilih denda. Artinya ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Dalam kepailitan, debitur dapat dinyatakan pailit apabila memenuhi persyaratan ....",
     "opts": [
-      "pidana penjara tidak dijatuhkan sebagai pidana pokok untuk delik itu",
-      "pidana harus dijatuhkan dalam jumlah maksimum",
-      "pertanggungjawaban hanya dapat dibebankan kepada korban",
-      "niat saja selalu cukup untuk pemidanaan",
-      "hakim tidak boleh mempertimbangkan keadaan konkret"
+      "Memiliki satu kreditur dan satu utang yang belum jatuh tempo",
+      "Mempunyai sekurang-kurangnya dua kreditur dan tidak membayar lunas sedikitnya satu utang yang telah jatuh waktu dan dapat ditagih",
+      "Tidak memiliki aset sama sekali",
+      "Telah melakukan tindak pidana",
+      "Mengajukan permohonan restrukturisasi utang"
     ],
-    "a": 0,
-    "exp": "Ancaman alternatif memberi pilihan jenis pidana sesuai rumusan delik dan pertimbangan hakim.",
-    "basis": "KUHP UU 1/2023; rumusan ancaman pidana"
+    "a": 1,
+    "exp": "Syarat pailit adalah sedikitnya dua kreditur dan terdapat satu utang yang telah jatuh waktu dan dapat ditagih yang tidak dibayar lunas.",
+    "basis": "UU 37/2004 tentang Kepailitan dan PKPU, Pasal 2 ayat (1)."
   },
   {
     "id": "P2-070",
-    "subject": "Hukum Pidana",
-    "q": "Pelaku melakukan tindak pidana karena keliru memahami fakta yang relevan, bukan keliru memahami hukum. Ini terutama menyangkut ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Pihak yang bertugas melakukan pengurusan dan pemberesan harta pailit adalah ....",
     "opts": [
-      "pertanggungjawaban hanya dapat dibebankan kepada korban",
-      "niat saja selalu cukup untuk pemidanaan",
-      "hakim tidak boleh mempertimbangkan keadaan konkret",
-      "perbuatan tersebut selalu menjadi delik aduan",
-      "kesalahan fakta yang dapat memengaruhi unsur batin"
+      "Hakim pengawas",
+      "Kurator",
+      "Jaksa",
+      "Panitera",
+      "Mediator"
     ],
-    "a": 4,
-    "exp": "Kekeliruan fakta dapat meniadakan kesengajaan jika menyangkut unsur delik; kekeliruan hukum dinilai berbeda.",
-    "basis": "Asas kesalahan; KUHP UU 1/2023"
+    "a": 1,
+    "exp": "Kurator mengurus dan membereskan harta pailit di bawah pengawasan hakim pengawas.",
+    "basis": "UU 37/2004, Pasal 1 angka 5 dan Pasal 69."
   },
   {
     "id": "P2-071",
-    "subject": "Hukum Pidana",
-    "q": "Orang yang tidak memiliki kualitas khusus melakukan delik yang mensyaratkan jabatan tertentu. Persoalan utamanya ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Hakim pengawas dalam kepailitan mempunyai fungsi ....",
     "opts": [
-      "niat saja selalu cukup untuk pemidanaan",
-      "hakim tidak boleh mempertimbangkan keadaan konkret",
-      "perbuatan tersebut selalu menjadi delik aduan",
-      "unsur subjek khusus tidak terpenuhi",
-      "unsur tersebut tidak perlu dibuktikan jika akibat terjadi"
+      "Menggantikan kurator dalam seluruh tindakan pemberesan",
+      "Mengawasi pengurusan dan pemberesan harta pailit",
+      "Mengadili perkara pidana debitur",
+      "Menjadi kuasa hukum kreditur",
+      "Mengambil alih seluruh harta pribadi kreditur"
     ],
-    "a": 3,
-    "exp": "Delik dengan subjek khusus mensyaratkan kualitas tertentu pada pelaku, kecuali aturan penyertaan memperluas pertanggungjawaban.",
-    "basis": "KUHP UU 1/2023; delik propria"
+    "a": 1,
+    "exp": "Hakim pengawas mengawasi pengurusan dan pemberesan harta pailit serta menjalankan kewenangan yang ditentukan UU Kepailitan.",
+    "basis": "UU 37/2004, Pasal 65 dan seterusnya."
   },
   {
     "id": "P2-072",
-    "subject": "Hukum Pidana",
-    "q": "Pelaku mengancam akan membuka rahasia untuk memaksa korban menyerahkan uang. Kualifikasi bergantung terutama pada ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Dalam hukum perdata, subrogasi merupakan ....",
     "opts": [
-      "hakim tidak boleh mempertimbangkan keadaan konkret",
-      "perbuatan tersebut selalu menjadi delik aduan",
-      "unsur pemaksaan, tujuan keuntungan, dan bentuk ancaman",
-      "unsur tersebut tidak perlu dibuktikan jika akibat terjadi",
-      "pelaku selalu bebas tanpa pemeriksaan kesalahan"
+      "Penghapusan utang karena daluwarsa",
+      "Penggantian hak kreditur oleh pihak ketiga yang membayar utang sesuai ketentuan hukum",
+      "Penggabungan dua perjanjian",
+      "Pembatalan perjanjian sepihak",
+      "Penambahan debitur baru tanpa persetujuan"
     ],
-    "a": 2,
-    "exp": "Kualifikasi pemerasan atau pengancaman bergantung pada rumusan unsur yang terbukti, bukan hanya adanya ancaman.",
-    "basis": "KUHP UU 1/2023 tentang tindak pidana harta benda"
+    "a": 1,
+    "exp": "Subrogasi adalah penggantian hak kreditur oleh pihak ketiga yang membayar kepada kreditur, berdasarkan undang-undang atau perjanjian.",
+    "basis": "KUHPerdata, Pasal 1400 dan seterusnya."
   },
   {
     "id": "P2-073",
-    "subject": "Hukum Pidana",
-    "q": "Seseorang menerima barang yang diketahui berasal dari tindak pidana setelah pencurian selesai. Pertanggungjawaban penerima ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Novasi adalah ....",
     "opts": [
-      "perbuatan tersebut selalu menjadi delik aduan",
-      "dinilai berdasarkan unsur delik penadahan dan pengetahuan atau patut duga",
-      "unsur tersebut tidak perlu dibuktikan jika akibat terjadi",
-      "pelaku selalu bebas tanpa pemeriksaan kesalahan",
-      "keadaan itu otomatis menghapus seluruh akibat hukum"
+      "Pembaruan utang yang mengakibatkan perikatan lama diganti dengan perikatan baru",
+      "Penghapusan utang karena pembayaran sebagian",
+      "Penyerahan benda jaminan",
+      "Pengalihan hak milik karena warisan",
+      "Perbuatan melawan hukum"
     ],
-    "a": 1,
-    "exp": "Penadahan merupakan delik tersendiri dengan unsur penerimaan atau penguasaan barang hasil kejahatan dan keadaan batin yang disyaratkan.",
-    "basis": "KUHP UU 1/2023 tentang penadahan"
+    "a": 0,
+    "exp": "Novasi merupakan pembaruan utang yang menghapus perikatan lama dan menggantinya dengan perikatan baru.",
+    "basis": "KUHPerdata, Pasal 1413 dan seterusnya."
   },
   {
     "id": "P2-074",
-    "subject": "Hukum Pidana",
-    "q": "Pelaku mengembalikan kerugian korban setelah tindak pidana, sebelum putusan. Akibat yang paling tepat ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Dalam hukum perdata, daluwarsa dapat mengakibatkan ....",
     "opts": [
-      "dapat menjadi pertimbangan pemidanaan, tetapi tidak otomatis menghapus pidana",
-      "unsur tersebut tidak perlu dibuktikan jika akibat terjadi",
-      "pelaku selalu bebas tanpa pemeriksaan kesalahan",
-      "keadaan itu otomatis menghapus seluruh akibat hukum",
-      "pidana harus dijatuhkan dalam jumlah maksimum"
+      "Hak dan kewajiban selalu hapus secara otomatis dalam semua keadaan",
+      "Diperolehnya hak atau dibebaskannya seseorang dari suatu perikatan karena lewatnya waktu sesuai persyaratan hukum",
+      "Semua perjanjian menjadi batal",
+      "Semua hak kebendaan menjadi milik negara",
+      "Gugatan selalu ditolak tanpa pemeriksaan"
     ],
-    "a": 0,
-    "exp": "Pemulihan kerugian dapat dipertimbangkan dalam pemidanaan atau mekanisme tertentu, tetapi tidak otomatis meniadakan tindak pidana.",
-    "basis": "KUHP UU 1/2023; prinsip pemidanaan"
+    "a": 1,
+    "exp": "Daluwarsa dapat bersifat memperoleh hak atau membebaskan dari suatu perikatan, dengan syarat dan jangka waktu yang ditentukan undang-undang.",
+    "basis": "KUHPerdata, Buku IV tentang pembuktian dan daluwarsa."
   },
   {
     "id": "P2-075",
-    "subject": "Hukum Acara Pidana",
-    "q": "Penyidik hendak melakukan penggeledahan rumah tanpa persetujuan penghuni dan tanpa keadaan mendesak. Langkah yang harus dipenuhi ...",
+    "subject": "Hukum Perdata Materiil",
+    "q": "Perjanjian yang dibuat oleh dua pihak harus dilaksanakan dengan ....",
     "opts": [
-      "pelanggaran prosedur tidak pernah memengaruhi bukti",
-      "hakim wajib menerima keterangan tanpa pengujian",
-      "memperoleh izin pengadilan sesuai ketentuan KUHAP",
-      "hak tersebut baru muncul setelah putusan berkekuatan tetap",
-      "perkara otomatis dihentikan tanpa penetapan"
+      "Itikad buruk",
+      "Itikad baik",
+      "Kehendak sepihak",
+      "Paksaan",
+      "Kepentingan kreditur saja"
     ],
-    "a": 2,
-    "exp": "Penggeledahan rumah tunduk pada izin dan prosedur KUHAP; pengecualian keadaan mendesak harus ditafsirkan terbatas.",
-    "basis": "KUHAP UU 20/2025 tentang penggeledahan"
+    "a": 1,
+    "exp": "Perjanjian harus dilaksanakan dengan itikad baik; para pihak wajib bertindak jujur dan patut dalam pelaksanaannya.",
+    "basis": "KUHPerdata, Pasal 1338 ayat (3)."
   },
   {
     "id": "P2-076",
-    "subject": "Hukum Acara Pidana",
-    "q": "Barang bukti diperoleh melalui tindakan paksa yang melanggar syarat legalitas. Hakim dalam menilai bukti harus ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Asas actor sequitur forum rei berarti ....",
     "opts": [
-      "hakim wajib menerima keterangan tanpa pengujian",
-      "menguji legalitas perolehan dan akibatnya terhadap penggunaan bukti",
-      "hak tersebut baru muncul setelah putusan berkekuatan tetap",
-      "perkara otomatis dihentikan tanpa penetapan",
-      "terdakwa dianggap melepaskan seluruh hak pembelaan"
+      "Gugatan diajukan ke pengadilan tempat objek sengketa berada dalam semua perkara",
+      "Gugatan pada prinsipnya diajukan ke pengadilan tempat tinggal tergugat",
+      "Gugatan selalu diajukan ke pengadilan tinggi",
+      "Gugatan diajukan ke tempat tinggal penggugat",
+      "Gugatan diajukan ke Mahkamah Agung"
     ],
     "a": 1,
-    "exp": "KUHAP Baru menekankan pengujian legalitas perolehan bukti dan konsekuensi hukum dari pelanggaran prosedur.",
-    "basis": "KUHAP UU 20/2025 tentang pembuktian dan upaya paksa"
+    "exp": "Asas umum kompetensi relatif menyatakan gugatan diajukan ke pengadilan tempat tinggal tergugat, dengan pengecualian yang ditentukan hukum.",
+    "basis": "HIR Pasal 118 ayat (1); RBg Pasal 142."
   },
   {
     "id": "P2-077",
-    "subject": "Hukum Acara Pidana",
-    "q": "Tersangka ditangkap tanpa dasar yang sah. Upaya yang secara khusus dapat diajukan untuk menguji sah tidaknya penangkapan ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Kompetensi absolut berkaitan dengan ....",
     "opts": [
-      "praperadilan sesuai ruang lingkup KUHAP",
-      "hak tersebut baru muncul setelah putusan berkekuatan tetap",
-      "perkara otomatis dihentikan tanpa penetapan",
-      "terdakwa dianggap melepaskan seluruh hak pembelaan",
-      "penuntut umum dapat mengabaikan tenggat tanpa alasan"
+      "Pembagian kewenangan mengadili berdasarkan wilayah",
+      "Pembagian kewenangan mengadili berdasarkan jenis atau lingkungan peradilan",
+      "Pembagian kewenangan berdasarkan nilai gugatan",
+      "Penentuan domisili hukum para pihak",
+      "Penentuan alamat kuasa hukum"
     ],
-    "a": 0,
-    "exp": "Praperadilan menjadi mekanisme kontrol yudisial atas tindakan tertentu, termasuk sah tidaknya penangkapan.",
-    "basis": "KUHAP UU 20/2025 tentang praperadilan"
+    "a": 1,
+    "exp": "Kompetensi absolut membagi kewenangan berdasarkan jenis perkara/lingkungan peradilan, misalnya peradilan umum, agama, militer, dan TUN.",
+    "basis": "UU 48/2009 tentang Kekuasaan Kehakiman; undang-undang masing-masing lingkungan peradilan."
   },
   {
     "id": "P2-078",
-    "subject": "Hukum Acara Pidana",
-    "q": "Penyidik melakukan penahanan, tetapi alasan objektif dan subjektif yang disyaratkan tidak terpenuhi. Akibat hukum yang paling tepat ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Kompetensi relatif berkaitan dengan ....",
     "opts": [
-      "perkara otomatis dihentikan tanpa penetapan",
-      "terdakwa dianggap melepaskan seluruh hak pembelaan",
-      "penuntut umum dapat mengabaikan tenggat tanpa alasan",
-      "alat bukti tersebut selalu memiliki kekuatan sempurna",
-      "penahanan dapat diuji dan dinyatakan tidak sah"
+      "Kewenangan pengadilan berdasarkan jenis perkara",
+      "Kewenangan pengadilan berdasarkan wilayah hukum",
+      "Kewenangan Mahkamah Agung menguji undang-undang",
+      "Kewenangan pengadilan mengadili perkara pidana",
+      "Kewenangan pengadilan menjatuhkan pidana"
     ],
-    "a": 4,
-    "exp": "Penahanan harus memenuhi dasar dan syarat yang ditentukan; ketiadaan syarat membuka pengujian keabsahannya.",
-    "basis": "KUHAP UU 20/2025 tentang penahanan"
+    "a": 1,
+    "exp": "Kompetensi relatif menentukan pengadilan mana yang berwenang secara teritorial di antara pengadilan yang sejenis.",
+    "basis": "HIR Pasal 118; RBg Pasal 142."
   },
   {
     "id": "P2-079",
-    "subject": "Hukum Acara Pidana",
-    "q": "Tersangka meminta didampingi advokat saat pemeriksaan, tetapi penyidik menolak tanpa alasan hukum. Isu utamanya ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Apabila gugatan mengandung cacat karena pihak yang ditarik sebagai tergugat tidak lengkap, keadaan tersebut dikenal sebagai ....",
     "opts": [
-      "terdakwa dianggap melepaskan seluruh hak pembelaan",
-      "penuntut umum dapat mengabaikan tenggat tanpa alasan",
-      "alat bukti tersebut selalu memiliki kekuatan sempurna",
-      "pelanggaran hak atas bantuan hukum dan pemeriksaan yang fair",
-      "tindakan itu sah sepanjang dilakukan penyidik"
+      "Obscuur libel",
+      "Error in persona",
+      "Ne bis in idem",
+      "Exceptio non adimpleti contractus",
+      "Res judicata"
     ],
-    "a": 3,
-    "exp": "Hak atas bantuan hukum merupakan jaminan prosedural; pelanggaran dapat memengaruhi keabsahan proses dan bukti.",
-    "basis": "KUHAP UU 20/2025; hak tersangka"
+    "a": 2,
+    "exp": "Kurang pihak atau tidak lengkapnya pihak yang seharusnya ditarik dalam perkara dikenal sebagai plurium litis consortium. Opsi C diperbaiki untuk memuat istilah yang tepat.",
+    "basis": "Doktrin hukum acara perdata tentang plurium litis consortium."
   },
   {
     "id": "P2-080",
-    "subject": "Hukum Acara Pidana",
-    "q": "Dalam pemeriksaan anak yang berkonflik dengan hukum, aparat tidak mengupayakan diversi meski syaratnya terpenuhi. Akibatnya ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Gugatan yang tidak jelas atau kabur mengenai dasar gugatan, objek, atau tuntutan dikenal sebagai ....",
     "opts": [
-      "penuntut umum dapat mengabaikan tenggat tanpa alasan",
-      "alat bukti tersebut selalu memiliki kekuatan sempurna",
-      "prosedur khusus SPPA tidak dipenuhi",
-      "tindakan itu sah sepanjang dilakukan penyidik",
-      "pelanggaran prosedur tidak pernah memengaruhi bukti"
+      "Plurium litis consortium",
+      "Obscuur libel",
+      "Error in persona",
+      "Exceptio rei judicatae",
+      "Verstek"
     ],
-    "a": 2,
-    "exp": "Diversi wajib diupayakan pada perkara dan tahap yang memenuhi persyaratan UU SPPA.",
-    "basis": "UU 11/2012 tentang SPPA"
+    "a": 1,
+    "exp": "Obscuur libel adalah gugatan kabur karena posita, petitum, objek, atau hubungan antara keduanya tidak jelas.",
+    "basis": "HIR/RBg dan doktrin hukum acara perdata."
   },
   {
     "id": "P2-081",
-    "subject": "Hukum Acara Pidana",
-    "q": "Kesepakatan diversi telah dicapai dan memperoleh penetapan sesuai prosedur. Konsekuensi pokoknya ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Tergugat yang tidak hadir pada hari sidang pertama meskipun telah dipanggil secara sah dan patut, serta tidak mengirimkan wakilnya, dapat mengakibatkan ....",
     "opts": [
-      "alat bukti tersebut selalu memiliki kekuatan sempurna",
-      "perkara diselesaikan melalui mekanisme diversi sesuai penetapan",
-      "tindakan itu sah sepanjang dilakukan penyidik",
-      "pelanggaran prosedur tidak pernah memengaruhi bukti",
-      "hakim wajib menerima keterangan tanpa pengujian"
+      "Putusan verstek",
+      "Putusan serta-merta otomatis",
+      "Putusan kasasi",
+      "Putusan peninjauan kembali",
+      "Putusan sela wajib"
     ],
-    "a": 1,
-    "exp": "Kesepakatan diversi yang sah dan ditetapkan berakibat pada penyelesaian perkara sesuai UU SPPA.",
-    "basis": "UU 11/2012 tentang SPPA"
+    "a": 0,
+    "exp": "Jika tergugat tidak hadir setelah dipanggil secara sah dan patut dan tidak ada alasan sah, hakim dapat menjatuhkan putusan verstek dengan memperhatikan syarat hukum.",
+    "basis": "HIR Pasal 125; RBg Pasal 149."
   },
   {
     "id": "P2-082",
-    "subject": "Hukum Acara Pidana",
-    "q": "Saksi yang dipanggil secara sah tidak hadir tanpa alasan yang dapat diterima. Tindakan yang tepat ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Apabila tergugat mengajukan perlawanan terhadap putusan verstek, upaya hukum tersebut disebut ....",
     "opts": [
-      "memerintahkan pemanggilan kembali dan menerapkan konsekuensi sesuai hukum",
-      "tindakan itu sah sepanjang dilakukan penyidik",
-      "pelanggaran prosedur tidak pernah memengaruhi bukti",
-      "hakim wajib menerima keterangan tanpa pengujian",
-      "hak tersebut baru muncul setelah putusan berkekuatan tetap"
+      "Banding",
+      "Kasasi",
+      "Verzet",
+      "Rekonvensi",
+      "Intervensi"
     ],
-    "a": 0,
-    "exp": "Ketidakhadiran saksi ditangani melalui pemanggilan dan langkah prosedural yang diatur, bukan langsung menganggap keterangannya terbukti.",
-    "basis": "KUHAP UU 20/2025 tentang saksi"
+    "a": 2,
+    "exp": "Verzet adalah perlawanan pihak yang dikalahkan dengan verstek terhadap putusan verstek.",
+    "basis": "HIR Pasal 129; RBg Pasal 153."
   },
   {
     "id": "P2-083",
-    "subject": "Hukum Acara Pidana",
-    "q": "Terdakwa mengajukan keberatan bahwa surat dakwaan tidak menguraikan waktu dan tempat secara cermat. Isu yang diperiksa ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Gugatan rekonvensi adalah ....",
     "opts": [
-      "pelanggaran prosedur tidak pernah memengaruhi bukti",
-      "hakim wajib menerima keterangan tanpa pengujian",
-      "hak tersebut baru muncul setelah putusan berkekuatan tetap",
-      "perkara otomatis dihentikan tanpa penetapan",
-      "syarat formil dan materiil surat dakwaan"
+      "Gugatan yang diajukan pihak ketiga",
+      "Gugatan balik yang diajukan tergugat terhadap penggugat dalam perkara yang sama",
+      "Gugatan yang diajukan ke pengadilan tinggi",
+      "Gugatan untuk membatalkan putusan berkekuatan hukum tetap",
+      "Gugatan yang diajukan oleh jaksa"
     ],
-    "a": 4,
-    "exp": "Dakwaan harus memenuhi uraian yang cermat, jelas, dan lengkap sesuai ketentuan KUHAP.",
-    "basis": "KUHAP UU 20/2025 tentang surat dakwaan"
+    "a": 1,
+    "exp": "Rekonvensi adalah gugatan balik tergugat terhadap penggugat yang diajukan dalam pemeriksaan perkara yang sama.",
+    "basis": "HIR Pasal 132a dan 132b; RBg ketentuan rekonvensi."
   },
   {
     "id": "P2-084",
-    "subject": "Hukum Acara Pidana",
-    "q": "Hakim menemukan dakwaan tidak memenuhi syarat yang mengakibatkan batal demi hukum. Tindakan hakim ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Intervensi dalam perkara perdata merupakan ....",
     "opts": [
-      "hakim wajib menerima keterangan tanpa pengujian",
-      "hak tersebut baru muncul setelah putusan berkekuatan tetap",
-      "perkara otomatis dihentikan tanpa penetapan",
-      "menyatakan dakwaan batal demi hukum sesuai mekanisme KUHAP",
-      "terdakwa dianggap melepaskan seluruh hak pembelaan"
+      "Penggabungan pihak ketiga dalam perkara yang sedang berlangsung karena memiliki kepentingan hukum",
+      "Penggantian hakim yang memeriksa perkara",
+      "Penarikan kembali gugatan",
+      "Penundaan eksekusi",
+      "Pembatalan putusan pengadilan"
     ],
-    "a": 3,
-    "exp": "Ketidakcermatan atau kekurangan tertentu pada dakwaan dapat berakibat batal demi hukum sebagaimana diatur KUHAP.",
-    "basis": "KUHAP UU 20/2025 tentang dakwaan"
+    "a": 0,
+    "exp": "Intervensi adalah masuknya pihak ketiga ke dalam perkara yang sedang berjalan karena mempunyai kepentingan hukum atas perkara tersebut.",
+    "basis": "Rv Pasal 279 dan seterusnya; praktik hukum acara perdata."
   },
   {
     "id": "P2-085",
-    "subject": "Hukum Acara Pidana",
-    "q": "Penuntut umum mengubah dakwaan setelah batas waktu yang dibolehkan KUHAP. Penilaian utama ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Bentuk intervensi yang dilakukan pihak ketiga dengan menggabungkan diri untuk mendukung salah satu pihak disebut ....",
     "opts": [
-      "hak tersebut baru muncul setelah putusan berkekuatan tetap",
-      "perkara otomatis dihentikan tanpa penetapan",
-      "apakah perubahan melanggar batas waktu dan hak pembelaan terdakwa",
-      "terdakwa dianggap melepaskan seluruh hak pembelaan",
-      "penuntut umum dapat mengabaikan tenggat tanpa alasan"
+      "Voeging",
+      "Tussenkomst",
+      "Vrijwaring",
+      "Verzet",
+      "Rekonvensi"
     ],
-    "a": 2,
-    "exp": "Perubahan dakwaan dibatasi waktu dan substansi untuk menjaga kepastian serta hak terdakwa menyiapkan pembelaan.",
-    "basis": "KUHAP UU 20/2025 tentang perubahan dakwaan"
+    "a": 0,
+    "exp": "Voeging adalah intervensi pihak ketiga untuk bergabung dan mendukung salah satu pihak yang berperkara.",
+    "basis": "Rv Pasal 279 dan seterusnya; doktrin intervensi."
   },
   {
     "id": "P2-086",
-    "subject": "Hukum Acara Pidana",
-    "q": "Dalam sidang, terdakwa mengakui perbuatan tetapi membantah unsur melawan hukum. Pengakuan tersebut ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Pihak ketiga yang masuk ke dalam perkara atas inisiatif sendiri untuk memperjuangkan kepentingannya sendiri disebut ....",
     "opts": [
-      "perkara otomatis dihentikan tanpa penetapan",
-      "tidak otomatis menggantikan pembuktian seluruh unsur delik",
-      "terdakwa dianggap melepaskan seluruh hak pembelaan",
-      "penuntut umum dapat mengabaikan tenggat tanpa alasan",
-      "alat bukti tersebut selalu memiliki kekuatan sempurna"
+      "Voeging",
+      "Tussenkomst",
+      "Vrijwaring",
+      "Verzet",
+      "Derdenverzet"
     ],
     "a": 1,
-    "exp": "Pengakuan harus dinilai dalam konteks keseluruhan bukti; unsur delik tetap harus terbukti menurut standar pembuktian.",
-    "basis": "KUHAP UU 20/2025 tentang pembuktian"
+    "exp": "Tussenkomst adalah masuknya pihak ketiga untuk membela kepentingannya sendiri yang terkait objek sengketa.",
+    "basis": "Rv Pasal 279 dan seterusnya; doktrin intervensi."
   },
   {
     "id": "P2-087",
-    "subject": "Hukum Acara Pidana",
-    "q": "Penuntut umum mengajukan saksi mahkota yang juga terdakwa dalam berkas terpisah. Hakim perlu ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Mediasi di pengadilan berdasarkan PERMA Nomor 1 Tahun 2016 pada prinsipnya wajib ditempuh dalam perkara perdata yang termasuk ruang lingkupnya, kecuali ....",
     "opts": [
-      "menilai legalitas, hak terdakwa, dan bobot keterangannya secara cermat",
-      "terdakwa dianggap melepaskan seluruh hak pembelaan",
-      "penuntut umum dapat mengabaikan tenggat tanpa alasan",
-      "alat bukti tersebut selalu memiliki kekuatan sempurna",
-      "tindakan itu sah sepanjang dilakukan penyidik"
+      "Semua perkara perdata tanpa pengecualian",
+      "Perkara yang dikecualikan berdasarkan ketentuan PERMA",
+      "Hanya perkara dengan nilai gugatan besar",
+      "Hanya perkara waris",
+      "Hanya perkara yang dihadiri penggugat"
     ],
-    "a": 0,
-    "exp": "Penggunaan saksi mahkota menimbulkan isu hak untuk tidak memberatkan diri sendiri dan harus dinilai hati-hati.",
-    "basis": "KUHAP; prinsip fair trial dan pembuktian"
+    "a": 1,
+    "exp": "Mediasi wajib pada perkara yang berada dalam ruang lingkup PERMA, dengan pengecualian yang secara limitatif disebutkan dalam PERMA.",
+    "basis": "PERMA 1/2016, Pasal 4."
   },
   {
     "id": "P2-088",
-    "subject": "Hukum Acara Pidana",
-    "q": "Saksi memberikan keterangan di bawah tekanan. Dalam menilai keterangannya, hakim harus ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Berdasarkan PERMA Nomor 1 Tahun 2016, jangka waktu proses mediasi adalah ....",
     "opts": [
-      "penuntut umum dapat mengabaikan tenggat tanpa alasan",
-      "alat bukti tersebut selalu memiliki kekuatan sempurna",
-      "tindakan itu sah sepanjang dilakukan penyidik",
-      "pelanggaran prosedur tidak pernah memengaruhi bukti",
-      "memeriksa kebebasan, konsistensi, dan cara perolehan keterangan"
+      "14 hari",
+      "20 hari",
+      "30 hari",
+      "60 hari",
+      "90 hari kalender"
     ],
-    "a": 4,
-    "exp": "Keterangan yang diperoleh melalui tekanan menimbulkan masalah keandalan dan legalitas; hakim wajib menilainya secara cermat.",
-    "basis": "KUHAP UU 20/2025 tentang pemeriksaan saksi"
+    "a": 2,
+    "exp": "Jangka waktu mediasi adalah paling lama 30 hari sejak penetapan perintah mediasi dan dapat diperpanjang paling lama 30 hari atas kesepakatan para pihak.",
+    "basis": "PERMA 1/2016, Pasal 24."
   },
   {
     "id": "P2-089",
-    "subject": "Hukum Acara Pidana",
-    "q": "Terdakwa tidak hadir pada sidang, padahal pemanggilan tidak sah. Pengadilan hendak melanjutkan pemeriksaan in absentia. Langkah itu ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Dalam PERMA Nomor 1 Tahun 2019, administrasi perkara dan persidangan di pengadilan secara elektronik berkaitan dengan ....",
     "opts": [
-      "alat bukti tersebut selalu memiliki kekuatan sempurna",
-      "tindakan itu sah sepanjang dilakukan penyidik",
-      "pelanggaran prosedur tidak pernah memengaruhi bukti",
-      "tidak dapat dibenarkan tanpa pemanggilan yang sah sesuai syarat",
-      "hakim wajib menerima keterangan tanpa pengujian"
+      "E-Billing",
+      "E-Court",
+      "E-Tilang",
+      "E-Procurement",
+      "E-KTP"
     ],
-    "a": 3,
-    "exp": "Pemeriksaan tanpa kehadiran terdakwa hanya dimungkinkan dalam kondisi yang ditentukan undang-undang dan dengan pemanggilan sah.",
-    "basis": "KUHAP UU 20/2025 tentang pemeriksaan tanpa hadir"
+    "a": 1,
+    "exp": "PERMA 1/2019 mengatur administrasi perkara dan persidangan secara elektronik melalui sistem e-Court/e-Litigation.",
+    "basis": "PERMA 1/2019 sebagaimana diubah dengan PERMA 7/2022."
   },
   {
     "id": "P2-090",
-    "subject": "Hukum Acara Pidana",
-    "q": "Putusan pidana memuat pertimbangan, tetapi tidak menyebut barang bukti yang dirampas atau dikembalikan. Hal ini menyangkut ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Pendaftaran perkara secara elektronik melalui e-Court disebut ....",
     "opts": [
-      "tindakan itu sah sepanjang dilakukan penyidik",
-      "pelanggaran prosedur tidak pernah memengaruhi bukti",
-      "kelengkapan amar putusan mengenai status barang bukti",
-      "hakim wajib menerima keterangan tanpa pengujian",
-      "hak tersebut baru muncul setelah putusan berkekuatan tetap"
+      "E-Summons",
+      "E-Filing",
+      "E-Litigasi",
+      "E-Skum",
+      "E-Inzage"
     ],
-    "a": 2,
-    "exp": "Putusan perlu menentukan nasib barang bukti sesuai hukum dan keadaan perkara.",
-    "basis": "KUHAP UU 20/2025 tentang putusan"
+    "a": 1,
+    "exp": "E-Filing adalah pendaftaran perkara secara elektronik melalui aplikasi e-Court.",
+    "basis": "PERMA 1/2019 sebagaimana diubah dengan PERMA 7/2022."
   },
   {
     "id": "P2-091",
-    "subject": "Hukum Acara Pidana",
-    "q": "Terdakwa mengajukan banding setelah lewat tenggat tanpa alasan yang dibenarkan. Akibatnya ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Pemanggilan para pihak secara elektronik dikenal dengan ....",
     "opts": [
-      "pelanggaran prosedur tidak pernah memengaruhi bukti",
-      "permohonan dapat dinyatakan tidak dapat diterima karena terlambat",
-      "hakim wajib menerima keterangan tanpa pengujian",
-      "hak tersebut baru muncul setelah putusan berkekuatan tetap",
-      "perkara otomatis dihentikan tanpa penetapan"
+      "E-Filing",
+      "E-Summons",
+      "E-Skum",
+      "E-Litigasi",
+      "E-Payment"
     ],
     "a": 1,
-    "exp": "Upaya hukum harus diajukan dalam tenggat; keterlambatan tanpa dasar pengecualian berakibat tidak dapat diterima.",
-    "basis": "KUHAP UU 20/2025 tentang banding"
+    "exp": "E-Summons merupakan pemanggilan/pemberitahuan kepada para pihak secara elektronik menurut ketentuan e-Court.",
+    "basis": "PERMA 1/2019 sebagaimana diubah dengan PERMA 7/2022."
   },
   {
     "id": "P2-092",
-    "subject": "Hukum Acara Pidana",
-    "q": "Dalam perkara pidana, penuntut umum menarik kembali tuntutan sebelum putusan dibacakan. Kewenangan dan akibatnya ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Penyampaian dokumen persidangan seperti jawaban, replik, duplik, dan kesimpulan secara elektronik dilakukan melalui ....",
     "opts": [
-      "harus mengikuti prosedur KUHAP dan tidak otomatis mengakhiri perkara",
-      "hakim wajib menerima keterangan tanpa pengujian",
-      "hak tersebut baru muncul setelah putusan berkekuatan tetap",
-      "perkara otomatis dihentikan tanpa penetapan",
-      "terdakwa dianggap melepaskan seluruh hak pembelaan"
+      "E-Filing",
+      "E-Summons",
+      "E-Litigasi",
+      "E-Skum",
+      "E-Inzage"
     ],
-    "a": 0,
-    "exp": "Penarikan tuntutan tunduk pada mekanisme hukum acara dan tidak boleh diasumsikan menghentikan perkara secara otomatis.",
-    "basis": "KUHAP UU 20/2025 tentang penuntutan"
+    "a": 2,
+    "exp": "Tahapan persidangan elektronik termasuk pertukaran dokumen jawab-menjawab dan kesimpulan dilakukan melalui e-Litigation.",
+    "basis": "PERMA 1/2019 sebagaimana diubah dengan PERMA 7/2022."
   },
   {
     "id": "P2-093",
-    "subject": "Hukum Acara Pidana",
-    "q": "Penyidik menyita telepon genggam yang tidak relevan dengan tindak pidana dan tidak menjelaskan kaitannya. Keabsahan sita dinilai dari ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Dalam perkara perdata, beban pembuktian pada prinsipnya diatur dalam ....",
     "opts": [
-      "hak tersebut baru muncul setelah putusan berkekuatan tetap",
-      "perkara otomatis dihentikan tanpa penetapan",
-      "terdakwa dianggap melepaskan seluruh hak pembelaan",
-      "penuntut umum dapat mengabaikan tenggat tanpa alasan",
-      "dasar, relevansi, prosedur, dan proporsionalitas penyitaan"
+      "Pasal 1865 KUHPerdata",
+      "Pasal 1320 KUHPerdata",
+      "Pasal 1365 KUHPerdata",
+      "Pasal 1338 KUHPerdata",
+      "Pasal 1238 KUHPerdata"
     ],
-    "a": 4,
-    "exp": "Penyitaan harus memiliki dasar hukum, berkaitan dengan perkara, dan mengikuti prosedur serta batas yang berlaku.",
-    "basis": "KUHAP UU 20/2025 tentang penyitaan"
+    "a": 0,
+    "exp": "Pihak yang mengaku mempunyai hak atau mengemukakan suatu peristiwa untuk meneguhkan haknya wajib membuktikan hak/peristiwa tersebut.",
+    "basis": "KUHPerdata, Pasal 1865; HIR Pasal 163; RBg Pasal 283."
   },
   {
     "id": "P2-094",
-    "subject": "Hukum Acara Pidana",
-    "q": "Pemeriksaan saksi dilakukan secara audiovisual karena alasan yang diakui undang-undang. Hakim tetap harus memastikan ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Alat bukti dalam perkara perdata menurut Pasal 1866 KUHPerdata meliputi ....",
     "opts": [
-      "perkara otomatis dihentikan tanpa penetapan",
-      "terdakwa dianggap melepaskan seluruh hak pembelaan",
-      "penuntut umum dapat mengabaikan tenggat tanpa alasan",
-      "identitas, keandalan komunikasi, dan kesempatan menguji keterangan",
-      "alat bukti tersebut selalu memiliki kekuatan sempurna"
+      "Bukti tulisan, saksi, persangkaan, pengakuan, dan sumpah",
+      "Bukti tulisan, ahli, rekaman, dan barang bukti saja",
+      "Saksi, ahli, pengakuan, dan penyitaan",
+      "Surat, keterangan terdakwa, petunjuk, dan sumpah",
+      "Bukti elektronik saja"
     ],
-    "a": 3,
-    "exp": "Pemeriksaan jarak jauh tidak menghilangkan kebutuhan menjaga keaslian, keandalan, dan hak para pihak menguji saksi.",
-    "basis": "KUHAP UU 20/2025 tentang pemeriksaan audiovisual"
+    "a": 0,
+    "exp": "Alat bukti perdata klasik meliputi bukti tulisan, saksi, persangkaan, pengakuan, dan sumpah. Bukti elektronik diakui berdasarkan peraturan khusus.",
+    "basis": "KUHPerdata, Pasal 1866; HIR Pasal 164; UU ITE."
   },
   {
     "id": "P2-095",
-    "subject": "Hukum Acara Pidana",
-    "q": "Dalam plea bargaining atau pengakuan bersalah, pengakuan terdakwa harus ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Akta autentik menurut Pasal 1868 KUHPerdata adalah ....",
     "opts": [
-      "terdakwa dianggap melepaskan seluruh hak pembelaan",
-      "penuntut umum dapat mengabaikan tenggat tanpa alasan",
-      "diberikan secara sukarela, sadar, dan setelah memahami akibatnya",
-      "alat bukti tersebut selalu memiliki kekuatan sempurna",
-      "tindakan itu sah sepanjang dilakukan penyidik"
+      "Akta yang dibuat oleh para pihak tanpa pejabat umum",
+      "Akta yang dibuat dalam bentuk yang ditentukan undang-undang oleh atau di hadapan pejabat umum yang berwenang",
+      "Akta yang hanya ditandatangani saksi",
+      "Akta yang dibuat secara lisan",
+      "Akta yang dibuat oleh advokat dalam semua keadaan"
     ],
-    "a": 2,
-    "exp": "Mekanisme pengakuan bersalah memerlukan pengakuan yang sah dan perlindungan hak terdakwa menurut KUHAP.",
-    "basis": "KUHAP UU 20/2025 tentang pengakuan bersalah"
+    "a": 1,
+    "exp": "Akta autentik dibuat dalam bentuk yang ditentukan undang-undang oleh/di hadapan pejabat umum yang berwenang di tempat akta dibuat.",
+    "basis": "KUHPerdata, Pasal 1868."
   },
   {
     "id": "P2-096",
-    "subject": "Hukum Acara Pidana",
-    "q": "Perjanjian penundaan penuntutan korporasi tidak memenuhi syarat prosedural. Pihak yang berkepentingan dapat ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Putusan yang belum dapat dilaksanakan sebelum berkekuatan hukum tetap, kecuali terdapat dasar khusus untuk pelaksanaan terlebih dahulu, berkaitan dengan asas ....",
     "opts": [
-      "penuntut umum dapat mengabaikan tenggat tanpa alasan",
-      "mengajukan perlawanan sesuai ketentuan khusus KUHAP",
-      "alat bukti tersebut selalu memiliki kekuatan sempurna",
-      "tindakan itu sah sepanjang dilakukan penyidik",
-      "pelanggaran prosedur tidak pernah memengaruhi bukti"
+      "Asas bahwa putusan pada umumnya baru dapat dieksekusi setelah berkekuatan hukum tetap (inkracht van gewijsde)",
+      "Uitvoerbaar bij voorraad",
+      "Ne bis in idem",
+      "Audi et alteram partem",
+      "Actor sequitur forum rei"
     ],
-    "a": 1,
-    "exp": "KUHAP Baru menyediakan mekanisme keberatan atau perlawanan atas pelanggaran prosedur DPA sesuai ketentuannya.",
-    "basis": "KUHAP UU 20/2025 tentang DPA"
+    "a": 0,
+    "exp": "Pada umumnya eksekusi putusan perdata mensyaratkan putusan berkekuatan hukum tetap; uitvoerbaar bij voorraad adalah pengecualian berupa pelaksanaan terlebih dahulu.",
+    "basis": "HIR Pasal 195 dan seterusnya; Rv Pasal 180 ayat (1); SEMA terkait putusan serta-merta."
   },
   {
     "id": "P2-097",
-    "subject": "Hukum Acara Pidana",
-    "q": "Putusan bebas dijatuhkan karena unsur delik tidak terbukti. Perbedaan pokok dari lepas dari segala tuntutan hukum adalah ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Putusan serta-merta atau uitvoerbaar bij voorraad adalah ....",
     "opts": [
-      "putusan lepas mengakui perbuatan terbukti tetapi bukan tindak pidana",
-      "alat bukti tersebut selalu memiliki kekuatan sempurna",
-      "tindakan itu sah sepanjang dilakukan penyidik",
-      "pelanggaran prosedur tidak pernah memengaruhi bukti",
-      "hakim wajib menerima keterangan tanpa pengujian"
+      "Putusan yang dapat dilaksanakan terlebih dahulu meskipun ada upaya hukum",
+      "Putusan yang tidak dapat dilaksanakan selamanya",
+      "Putusan yang hanya berlaku bagi perkara pidana",
+      "Putusan yang otomatis membatalkan gugatan",
+      "Putusan yang tidak memerlukan pertimbangan hakim"
     ],
     "a": 0,
-    "exp": "Bebas berarti dakwaan tidak terbukti secara sah dan meyakinkan; lepas berarti perbuatan terbukti tetapi bukan tindak pidana.",
-    "basis": "KUHAP UU 20/2025 tentang putusan"
+    "exp": "Putusan serta-merta dapat dilaksanakan terlebih dahulu meskipun diajukan upaya hukum, hanya dalam keadaan yang dibolehkan dan dengan syarat ketat.",
+    "basis": "HIR Pasal 180 ayat (1); Rv Pasal 54–57; SEMA tentang putusan serta-merta."
   },
   {
     "id": "P2-098",
-    "subject": "Hukum Acara Pidana",
-    "q": "Hakim menjatuhkan pidana tanpa memberi kesempatan terdakwa mengajukan pembelaan akhir. Persoalan utamanya ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Apabila penggugat mencabut gugatan sebelum tergugat memberikan jawaban, pada prinsipnya ....",
     "opts": [
-      "tindakan itu sah sepanjang dilakukan penyidik",
-      "pelanggaran prosedur tidak pernah memengaruhi bukti",
-      "hakim wajib menerima keterangan tanpa pengujian",
-      "hak tersebut baru muncul setelah putusan berkekuatan tetap",
-      "pelanggaran hak pembelaan dan tata cara pemeriksaan"
+      "Pencabutan memerlukan persetujuan tergugat dalam semua keadaan",
+      "Penggugat dapat mencabut gugatan tanpa persetujuan tergugat",
+      "Hakim wajib menolak pencabutan",
+      "Perkara harus tetap diperiksa sampai putusan",
+      "Gugatan otomatis berubah menjadi rekonvensi"
     ],
-    "a": 4,
-    "exp": "Kesempatan pembelaan merupakan bagian penting proses yang adil dan tata cara persidangan.",
-    "basis": "KUHAP UU 20/2025 tentang pembelaan"
+    "a": 1,
+    "exp": "Sebelum tergugat memberikan jawaban, penggugat pada prinsipnya dapat mencabut gugatan tanpa persetujuan tergugat; setelah jawaban, persetujuan tergugat diperlukan.",
+    "basis": "Rv Pasal 271."
   },
   {
     "id": "P2-099",
-    "subject": "Hukum Acara Pidana",
-    "q": "Terdakwa meminta agar bukti elektronik diperiksa keaslian dan integritasnya. Pengadilan perlu ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Dalam hukum acara perdata, eksekusi riil pada prinsipnya merupakan ....",
     "opts": [
-      "pelanggaran prosedur tidak pernah memengaruhi bukti",
-      "hakim wajib menerima keterangan tanpa pengujian",
-      "hak tersebut baru muncul setelah putusan berkekuatan tetap",
-      "menilai autentikasi, integritas, relevansi, dan cara perolehannya",
-      "perkara otomatis dihentikan tanpa penetapan"
+      "Pelaksanaan putusan yang memerintahkan penyerahan atau pengosongan suatu objek secara nyata",
+      "Pelaksanaan putusan pidana penjara",
+      "Penghitungan biaya perkara",
+      "Pembatalan akta autentik",
+      "Pemeriksaan ulang pokok perkara"
     ],
-    "a": 3,
-    "exp": "Bukti elektronik harus dinilai dari keaslian, integritas, relevansi, serta legalitas perolehannya.",
-    "basis": "KUHAP UU 20/2025 tentang alat bukti elektronik"
+    "a": 0,
+    "exp": "Eksekusi riil adalah pelaksanaan amar putusan secara nyata, misalnya penyerahan atau pengosongan benda/tanah.",
+    "basis": "HIR Pasal 1033 Rv (pengosongan) dan ketentuan eksekusi HIR/RBg."
   },
   {
     "id": "P2-100",
-    "subject": "Hukum Pidana",
-    "q": "Pelaku melakukan tindak pidana dalam keadaan mabuk yang sengaja ia ciptakan sendiri. Keadaan tersebut pada prinsipnya ...",
+    "subject": "Hukum Acara Perdata",
+    "q": "Apabila pihak ketiga merasa hak miliknya dirugikan karena objek miliknya ikut disita dalam pelaksanaan eksekusi perkara antara pihak lain, upaya hukum yang dapat ditempuh adalah ....",
     "opts": [
-      "otomatis menghapus kesalahan pelaku",
-      "tidak otomatis menghapus pertanggungjawaban pidana",
-      "selalu mengubah delik menjadi pelanggaran",
-      "mewajibkan hakim menjatuhkan pidana maksimum",
-      "menghalangi pemeriksaan unsur kesengajaan"
+      "Verzet",
+      "Banding",
+      "Kasasi",
+      "Derdenverzet atau perlawanan pihak ketiga",
+      "Rekonvensi"
     ],
-    "a": 1,
-    "exp": "Keadaan mabuk yang sengaja ditimbulkan sendiri tidak dengan sendirinya menghapus pertanggungjawaban; penilaian tetap mengikuti unsur dan ketentuan hukum.",
-    "basis": "KUHP UU 1/2023; asas pertanggungjawaban pidana"
+    "a": 3,
+    "exp": "Pihak ketiga yang mengaku sebagai pemilik objek yang disita dapat mengajukan perlawanan pihak ketiga (derdenverzet) menurut syarat hukum acara.",
+    "basis": "HIR Pasal 195 ayat (6); RBg Pasal 206 ayat (6); praktik perlawanan pihak ketiga."
   }
 ]
